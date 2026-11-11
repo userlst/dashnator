@@ -1,0 +1,15 @@
+# Aparência e limites do painel. Não coloque senhas aqui: use .streamlit/secrets.toml (fora do Git).
+[theme]
+primaryColor = "#1f5eff"
+backgroundColor = "#f4f6f9"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#14181f"
+
+[server]
+maxUploadSize = 50          # MB por arquivo enviado
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
