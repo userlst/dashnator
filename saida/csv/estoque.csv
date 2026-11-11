@@ -1,0 +1,801 @@
+﻿sku;descricao;quantidade_atual;custo_unitario;preco_venda;categoria;marca;fornecedor;lead_time_dias;sempre_mantenho
+P00001;Bobina de ignição - Marca H - Aplic. V56;4,0;13,52;23,08;Elétrica;Marca H;Distribuidora 7;;Não
+P00002;Terminal axial - Marca G - Aplic. V05;2,0;384,05;682,67;Direção;Marca G;Distribuidora 8;;Não
+P00003;Palheta do limpador - Marca D - Aplic. V41;3,0;22,34;33,32;Acessórios;Marca D;Distribuidora 3;;Não
+P00004;Cilindro mestre - Marca D - Aplic. V14;3,0;55,88;93,86;Freios;Marca D;Distribuidora 7;;Não
+P00005;Pivô de suspensão - Marca D - Aplic. V08;2,0;74,92;138,13;Suspensão;Marca D;Distribuidora 4;;Não
+P00006;Caixa de direção - Marca A - Aplic. V03;2,0;301,3;480,16;Direção;Marca A;Distribuidora 5;;Não
+P00007;Filtro de ar - Marca G - Aplic. V31;1,0;14,71;26,07;Filtros;Marca G;Distribuidora 2;;Não
+P00008;Bomba de direção - Marca C - Aplic. V42;1,0;279,25;488,44;Direção;Marca C;Distribuidora 3;;Não
+P00009;Trava elétrica - Marca F - Aplic. V16;2,0;14,73;23,33;Acessórios;Marca F;Distribuidora 1;;Não
+P00010;Kit de embreagem - Marca G - Aplic. V30;1,0;59,25;112,76;Transmissão;Marca G;Distribuidora 6;;Não
+P00011;Bieleta - Marca D - Aplic. V57;3,0;120,34;209,02;Suspensão;Marca D;Distribuidora 3;;Não
+P00012;Bucha de bandeja - Marca E - Aplic. V46;5,0;135,78;214,48;Suspensão;Marca E;Distribuidora 2;;Não
+P00013;Pastilha de freio dianteira - Marca A - Aplic. V19;2,0;169,04;301,55;Freios;Marca A;Distribuidora 2;;Não
+P00014;Junta do cabeçote - Marca B - Aplic. V36;4,0;289,19;468,82;Motor;Marca B;Distribuidora 3;;Não
+P00015;Kit de embreagem - Marca H - Aplic. V48;2,0;331,48;549,37;Transmissão;Marca H;Distribuidora 1;;Não
+P00016;Lâmpada de placa - Marca E - Aplic. V36;2,0;7,5;14,41;Elétrica;Marca E;Distribuidora 3;;Não
+P00017;Condensador - Marca A - Aplic. V09;3,0;266,1;481,73;Ar-condicionado;Marca A;Distribuidora 1;;Não
+P00018;Calota - Marca C - Aplic. V31;3,0;11,84;17,72;Acessórios;Marca C;Distribuidora 1;;Não
+P00019;Lâmpada de placa - Marca D - Aplic. V54;1,0;14,52;25,96;Elétrica;Marca D;Distribuidora 1;;Não
+P00020;Condensador - Marca H - Aplic. V12;1,0;743,92;1390,73;Ar-condicionado;Marca H;Distribuidora 6;;Não
+P00021;Lona de freio - Marca C - Aplic. V51;2,0;24,91;47,53;Freios;Marca C;Distribuidora 2;;Não
+P00022;Óleo 5W30 - Marca B - Aplic. V13;3,0;28,45;52,22;Lubrificantes;Marca B;Distribuidora 1;;Não
+P00023;Lâmpada de farol - Marca H - Aplic. V11;13,0;9,27;14,32;Elétrica;Marca H;Distribuidora 1;;Não
+P00024;Filtro de combustível - Marca F - Aplic. V41;2,0;23,28;43,42;Filtros;Marca F;Distribuidora 5;;Não
+P00025;Filtro de cabine - Marca C - Aplic. V44;2,0;29,97;46,05;Filtros;Marca C;Distribuidora 8;;Não
+P00026;Junta homocinética - Marca F - Aplic. V13;4,0;128,05;193,27;Transmissão;Marca F;Distribuidora 1;;Não
+P00027;Cabo de embreagem - Marca A - Aplic. V23;3,0;48,87;75,19;Transmissão;Marca A;Distribuidora 6;;Não
+P00028;Filtro secador - Marca G - Aplic. V39;2,0;188,0;357,65;Ar-condicionado;Marca G;Distribuidora 2;;Não
+P00029;Alternador - Marca G - Aplic. V51;2,0;468,02;710,66;Elétrica;Marca G;Distribuidora 2;;Não
+P00030;Junta homocinética - Marca D - Aplic. V22;1,0;60,95;116,92;Transmissão;Marca D;Distribuidora 5;;Não
+P00031;Semieixo - Marca D - Aplic. V14;8,0;53,55;89,19;Transmissão;Marca D;Distribuidora 6;;Não
+P00032;Cilindro mestre - Marca G - Aplic. V60;7,0;147,59;261,28;Freios;Marca G;Distribuidora 3;;Não
+P00033;Filtro de cabine - Marca H - Aplic. V08;91,0;21,36;40,51;Filtros;Marca H;Distribuidora 1;;Não
+P00034;Pastilha de freio traseira - Marca H - Aplic. V44;1,0;84,35;140,16;Freios;Marca H;Distribuidora 1;;Não
+P00035;Radiador - Marca E - Aplic. V56;1,0;61,79;91,97;Arrefecimento;Marca E;Distribuidora 8;;Não
+P00036;Pastilha de freio traseira - Marca A - Aplic. V20;68,0;39,6;60,6;Freios;Marca A;Distribuidora 4;;Não
+P00037;Bomba de óleo - Marca E - Aplic. V53;2,0;125,64;226,95;Motor;Marca E;Distribuidora 5;;Não
+P00038;Filtro de ar - Marca G - Aplic. V26;2,0;10,15;18,41;Filtros;Marca G;Distribuidora 6;;Não
+P00039;Bomba de direção - Marca D - Aplic. V24;7,0;446,9;844,62;Direção;Marca D;Distribuidora 5;;Não
+P00040;Óleo 10W40 - Marca D - Aplic. V20;3,0;30,2;53,89;Lubrificantes;Marca D;Distribuidora 1;;Não
+P00041;Cilindro mestre - Marca A - Aplic. V44;4,0;77,96;129,81;Freios;Marca A;Distribuidora 4;;Não
+P00042;Terminal de direção - Marca C - Aplic. V56;4,0;249,15;374,62;Direção;Marca C;Distribuidora 2;;Não
+P00043;Kit de embreagem - Marca H - Aplic. V44;0,0;119,38;181,55;Transmissão;Marca H;Distribuidora 4;;Não
+P00044;Terminal axial - Marca C - Aplic. V35;3,0;345,75;544,32;Direção;Marca C;Distribuidora 3;;Não
+P00045;Aditivo de radiador - Marca C - Aplic. V13;0,0;76,78;145,22;Arrefecimento;Marca C;Distribuidora 8;;Não
+P00046;Trava elétrica - Marca G - Aplic. V30;2,0;31,16;54,09;Acessórios;Marca G;Distribuidora 4;;Não
+P00047;Fluido de freio - Marca A - Aplic. V26;7,0;18,08;33,76;Lubrificantes;Marca A;Distribuidora 5;;Não
+P00048;Semieixo - Marca F - Aplic. V27;8,0;374,73;565,82;Transmissão;Marca F;Distribuidora 8;;Não
+P00049;Semieixo - Marca G - Aplic. V11;7,0;46,76;84,64;Transmissão;Marca G;Distribuidora 8;;Não
+P00050;Terminal axial - Marca G - Aplic. V04;6,0;397,56;658,85;Direção;Marca G;Distribuidora 5;;Não
+P00051;Bieleta - Marca B - Aplic. V58;4,0;99,5;184,22;Suspensão;Marca B;Distribuidora 3;;Não
+P00052;Motor de partida - Marca B - Aplic. V55;1,0;184,58;340,12;Elétrica;Marca B;Distribuidora 8;;Não
+P00053;Filtro de cabine - Marca A - Aplic. V45;3,0;15,14;27,51;Filtros;Marca A;Distribuidora 2;;Não
+P00054;Bomba de óleo - Marca E - Aplic. V07;8,0;53,49;96,74;Motor;Marca E;Distribuidora 4;;Não
+P00055;Bucha de bandeja - Marca F - Aplic. V47;1,0;66,61;112,12;Suspensão;Marca F;Distribuidora 4;;Não
+P00056;Óleo de câmbio - Marca H - Aplic. V26;5,0;18,96;33,3;Lubrificantes;Marca H;Distribuidora 6;;Não
+P00057;Tapete de borracha - Marca H - Aplic. V46;1,0;25,18;38,13;Acessórios;Marca H;Distribuidora 5;;Não
+P00058;Junta do cabeçote - Marca F - Aplic. V52;1,0;26,44;38,97;Motor;Marca F;Distribuidora 2;;Não
+P00059;Condensador - Marca A - Aplic. V26;1,0;117,7;225,29;Ar-condicionado;Marca A;Distribuidora 8;;Não
+P00060;Lâmpada de farol - Marca B - Aplic. V33;2,0;4,11;6,68;Elétrica;Marca B;Distribuidora 4;;Não
+P00061;Bateria 60Ah - Marca C - Aplic. V49;3,0;12,25;18,89;Elétrica;Marca C;Distribuidora 7;;Não
+P00062;Mangueira superior - Marca E - Aplic. V11;13,0;25,32;40,79;Arrefecimento;Marca E;Distribuidora 5;;Não
+P00063;Bomba d'água - Marca D - Aplic. V29;6,0;178,39;296,46;Arrefecimento;Marca D;Distribuidora 4;;Sim
+P00064;Óleo de câmbio - Marca A - Aplic. V13;4,0;30,67;48,15;Lubrificantes;Marca A;Distribuidora 7;;Não
+P00065;Bomba de óleo - Marca C - Aplic. V32;1,0;275,85;469,3;Motor;Marca C;Distribuidora 6;;Não
+P00066;Lona de freio - Marca D - Aplic. V33;1,0;129,17;207,56;Freios;Marca D;Distribuidora 2;;Não
+P00067;Kit de distribuição - Marca F - Aplic. V24;2,0;74,71;125,56;Motor;Marca F;Distribuidora 7;;Não
+P00068;Óleo 5W30 - Marca D - Aplic. V58;3,0;19,86;34,81;Lubrificantes;Marca D;Distribuidora 8;;Não
+P00069;Filtro secador - Marca F - Aplic. V38;7,0;210,67;313,64;Ar-condicionado;Marca F;Distribuidora 8;;Não
+P00070;Pastilha de freio dianteira - Marca A - Aplic. V25;4,0;168,37;316,59;Freios;Marca A;Distribuidora 5;;Não
+P00071;Válvula termostática - Marca D - Aplic. V07;8,0;17,62;32,05;Arrefecimento;Marca D;Distribuidora 5;;Não
+P00072;Pivô de suspensão - Marca C - Aplic. V54;2,0;75,49;115,86;Suspensão;Marca C;Distribuidora 5;;Não
+P00073;Terminal axial - Marca H - Aplic. V42;0,0;84,46;162,12;Direção;Marca H;Distribuidora 5;;Não
+P00074;Válvula termostática - Marca C - Aplic. V25;5,0;254,6;386,23;Arrefecimento;Marca C;Distribuidora 1;;Não
+P00075;Óleo de câmbio - Marca F - Aplic. V16;9,0;19,93;35,19;Lubrificantes;Marca F;Distribuidora 7;;Não
+P00076;Bomba de direção - Marca H - Aplic. V16;2,0;55,34;86,47;Direção;Marca H;Distribuidora 1;;Não
+P00077;Válvula de expansão - Marca D - Aplic. V46;2,0;80,08;141,11;Ar-condicionado;Marca D;Distribuidora 5;;Não
+P00078;Terminal axial - Marca E - Aplic. V07;1,0;247,63;467,72;Direção;Marca E;Distribuidora 7;;Não
+P00079;Lâmpada de placa - Marca E - Aplic. V03;3,0;9,78;18,25;Elétrica;Marca E;Distribuidora 7;;Não
+P00080;Óleo 10W40 - Marca G - Aplic. V33;1,0;31,78;49,2;Lubrificantes;Marca G;Distribuidora 8;;Não
+P00081;Pastilha de freio dianteira - Marca G - Aplic. V06;2,0;27,77;50,35;Freios;Marca G;Distribuidora 6;;Não
+P00082;Condensador - Marca C - Aplic. V40;0,0;150,36;242,34;Ar-condicionado;Marca C;Distribuidora 5;;Não
+P00083;Alternador - Marca H - Aplic. V29;1,0;7,31;12,65;Elétrica;Marca H;Distribuidora 2;;Não
+P00084;Fluido de freio - Marca G - Aplic. V24;4,0;30,41;47,39;Lubrificantes;Marca G;Distribuidora 5;;Não
+P00085;Caixa de direção - Marca F - Aplic. V45;0,0;87,17;146,75;Direção;Marca F;Distribuidora 1;;Não
+P00086;Mangueira superior - Marca H - Aplic. V33;1,0;84,7;143,46;Arrefecimento;Marca H;Distribuidora 1;;Não
+P00087;Motor de partida - Marca D - Aplic. V24;2,0;91,74;136,48;Elétrica;Marca D;Distribuidora 5;;Não
+P00088;Kit de distribuição - Marca C - Aplic. V18;2,0;61,55;93,01;Motor;Marca C;Distribuidora 5;;Não
+P00089;Vela de ignição - Marca F - Aplic. V42;6,0;66,16;110,69;Motor;Marca F;Distribuidora 7;;Não
+P00090;Pastilha de freio dianteira - Marca H - Aplic. V04;9,0;51,13;78,32;Freios;Marca H;Distribuidora 2;;Não
+P00091;Filtro de cabine - Marca C - Aplic. V07;50,0;42,34;70,4;Filtros;Marca C;Distribuidora 5;;Não
+P00092;Terminal de direção - Marca A - Aplic. V19;0,0;351,7;521,48;Direção;Marca A;Distribuidora 1;;Não
+P00093;Junta homocinética - Marca H - Aplic. V10;3,0;75,82;114,58;Transmissão;Marca H;Distribuidora 2;;Não
+P00094;Lâmpada de farol - Marca D - Aplic. V46;7,0;11,39;19,45;Elétrica;Marca D;Distribuidora 2;;Não
+P00095;Amortecedor dianteiro - Marca F - Aplic. V34;5,0;236,39;433,14;Suspensão;Marca F;Distribuidora 7;;Não
+P00096;Tapete de borracha - Marca D - Aplic. V48;3,0;25,66;48,06;Acessórios;Marca D;Distribuidora 8;;Não
+P00097;Filtro de cabine - Marca E - Aplic. V11;7,0;44,06;78,41;Filtros;Marca E;Distribuidora 4;;Não
+P00098;Bomba de óleo - Marca E - Aplic. V08;3,0;38,88;72,87;Motor;Marca E;Distribuidora 8;;Não
+P00099;Filtro de óleo - Marca B - Aplic. V09;1,0;11,68;20,6;Filtros;Marca B;Distribuidora 6;;Não
+P00100;Fluido de freio - Marca H - Aplic. V54;7,0;39,66;70,69;Lubrificantes;Marca H;Distribuidora 8;;Não
+P00101;Válvula de expansão - Marca A - Aplic. V54;1,0;188,49;293,51;Ar-condicionado;Marca A;Distribuidora 8;;Não
+P00102;Mangueira superior - Marca A - Aplic. V43;2,0;128,77;190,82;Arrefecimento;Marca A;Distribuidora 8;;Não
+P00103;Kit de distribuição - Marca F - Aplic. V56;3,0;189,54;328,3;Motor;Marca F;Distribuidora 7;;Não
+P00104;Junta homocinética - Marca A - Aplic. V38;7,0;186,3;320,39;Transmissão;Marca A;Distribuidora 2;;Não
+P00105;Terminal de direção - Marca H - Aplic. V02;0,0;196,4;292,4;Direção;Marca H;Distribuidora 5;;Não
+P00106;Bieleta - Marca C - Aplic. V48;2,0;300,31;519,36;Suspensão;Marca C;Distribuidora 8;;Não
+P00107;Lâmpada de farol - Marca C - Aplic. V19;3,0;16,89;32,38;Elétrica;Marca C;Distribuidora 2;;Não
+P00108;Aditivo de radiador - Marca H - Aplic. V22;3,0;91,42;143,45;Arrefecimento;Marca H;Distribuidora 6;;Não
+P00109;Amortecedor dianteiro - Marca A - Aplic. V31;6,0;38,63;73,16;Suspensão;Marca A;Distribuidora 4;;Não
+P00110;Kit de embreagem - Marca E - Aplic. V52;0,0;202,52;327,35;Transmissão;Marca E;Distribuidora 6;;Não
+P00111;Tapete de borracha - Marca A - Aplic. V12;5,0;14,18;26,27;Acessórios;Marca A;Distribuidora 8;;Não
+P00112;Filtro secador - Marca E - Aplic. V54;0,0;57,4;104,84;Ar-condicionado;Marca E;Distribuidora 8;;Não
+P00113;Óleo 15W40 - Marca D - Aplic. V43;1,0;31,64;47,22;Lubrificantes;Marca D;Distribuidora 6;;Não
+P00114;Condensador - Marca F - Aplic. V52;1,0;164,39;259,62;Ar-condicionado;Marca F;Distribuidora 1;;Não
+P00115;Filtro de cabine - Marca H - Aplic. V27;3,0;10,14;18,5;Filtros;Marca H;Distribuidora 7;;Não
+P00116;Trava elétrica - Marca D - Aplic. V37;2,0;35,06;51,69;Acessórios;Marca D;Distribuidora 5;;Não
+P00117;Trava elétrica - Marca F - Aplic. V39;0,0;22,58;37,97;Acessórios;Marca F;Distribuidora 6;;Não
+P00118;Óleo 15W40 - Marca D - Aplic. V06;0,0;21,61;38,25;Lubrificantes;Marca D;Distribuidora 4;;Não
+P00119;Correia dentada - Marca B - Aplic. V27;0,0;25,67;45,28;Motor;Marca B;Distribuidora 4;;Não
+P00120;Calota - Marca G - Aplic. V08;4,0;69,1;111,62;Acessórios;Marca G;Distribuidora 3;;Não
+P00121;Filtro de óleo - Marca H - Aplic. V12;5,0;18,96;32,09;Filtros;Marca H;Distribuidora 5;;Não
+P00122;Lâmpada de farol - Marca F - Aplic. V01;2,0;5,2;8,3;Elétrica;Marca F;Distribuidora 8;;Não
+P00123;Trava elétrica - Marca G - Aplic. V23;4,0;38,6;67,46;Acessórios;Marca G;Distribuidora 7;;Não
+P00124;Junta homocinética - Marca F - Aplic. V24;2,0;65,6;104,28;Transmissão;Marca F;Distribuidora 5;;Não
+P00125;Mangueira superior - Marca B - Aplic. V56;3,0;21,49;33,09;Arrefecimento;Marca B;Distribuidora 7;;Não
+P00126;Pastilha de freio traseira - Marca F - Aplic. V01;3,0;45,09;84,54;Freios;Marca F;Distribuidora 6;;Não
+P00127;Pastilha de freio traseira - Marca F - Aplic. V10;4,0;82,43;139,35;Freios;Marca F;Distribuidora 5;;Não
+P00128;Pivô de suspensão - Marca B - Aplic. V07;1,0;183,91;287,68;Suspensão;Marca B;Distribuidora 4;;Não
+P00129;Óleo 10W40 - Marca C - Aplic. V09;2,0;17,16;27,69;Lubrificantes;Marca C;Distribuidora 5;;Não
+P00130;Amortecedor traseiro - Marca H - Aplic. V01;2,0;262,59;408,07;Suspensão;Marca H;Distribuidora 1;;Não
+P00131;Condensador - Marca C - Aplic. V27;3,0;431,25;754,55;Ar-condicionado;Marca C;Distribuidora 4;;Não
+P00132;Motor de partida - Marca D - Aplic. V39;5,0;68,36;109,9;Elétrica;Marca D;Distribuidora 6;;Não
+P00133;Amortecedor traseiro - Marca F - Aplic. V07;1,0;79,11;137,52;Suspensão;Marca F;Distribuidora 6;;Não
+P00134;Cilindro mestre - Marca E - Aplic. V23;0,0;57,95;110,84;Freios;Marca E;Distribuidora 5;;Não
+P00135;Compressor - Marca D - Aplic. V07;4,0;93,61;176,03;Ar-condicionado;Marca D;Distribuidora 4;;Não
+P00136;Bomba de óleo - Marca F - Aplic. V39;0,0;191,8;357,3;Motor;Marca F;Distribuidora 3;;Não
+P00137;Condensador - Marca E - Aplic. V16;2,0;71,54;132,59;Ar-condicionado;Marca E;Distribuidora 8;;Não
+P00138;Kit de embreagem - Marca C - Aplic. V07;3,0;104,09;182,29;Transmissão;Marca C;Distribuidora 1;;Não
+P00139;Junta homocinética - Marca C - Aplic. V21;11,0;178,95;309,58;Transmissão;Marca C;Distribuidora 8;;Não
+P00140;Terminal de direção - Marca G - Aplic. V18;1,0;59,03;100,17;Direção;Marca G;Distribuidora 5;;Não
+P00141;Trava elétrica - Marca C - Aplic. V22;3,0;56,8;104,91;Acessórios;Marca C;Distribuidora 6;;Não
+P00142;Lâmpada de placa - Marca C - Aplic. V13;2,0;22,93;34,77;Elétrica;Marca C;Distribuidora 5;;Não
+P00143;Junta do cabeçote - Marca H - Aplic. V57;8,0;129,85;233,79;Motor;Marca H;Distribuidora 6;;Não
+P00144;Terminal axial - Marca C - Aplic. V03;2,0;195,56;344,12;Direção;Marca C;Distribuidora 8;;Não
+P00145;Correia dentada - Marca D - Aplic. V11;5,0;18,86;31,91;Motor;Marca D;Distribuidora 6;;Não
+P00146;Filtro secador - Marca G - Aplic. V16;1,0;115,2;183,54;Ar-condicionado;Marca G;Distribuidora 6;;Não
+P00147;Filtro de óleo - Marca D - Aplic. V13;1,0;15,59;24,38;Filtros;Marca D;Distribuidora 4;;Não
+P00148;Junta do cabeçote - Marca B - Aplic. V08;1,0;21,47;38,51;Motor;Marca B;Distribuidora 4;;Não
+P00149;Kit de embreagem - Marca G - Aplic. V06;7,0;260,58;398,23;Transmissão;Marca G;Distribuidora 8;;Não
+P00150;Compressor - Marca F - Aplic. V55;2,0;101,34;159,22;Ar-condicionado;Marca F;Distribuidora 7;;Não
+P00151;Pastilha de freio dianteira - Marca F - Aplic. V36;5,0;100,34;176,76;Freios;Marca F;Distribuidora 7;;Não
+P00152;Tapete de borracha - Marca F - Aplic. V40;5,0;29,21;51,04;Acessórios;Marca F;Distribuidora 3;;Não
+P00153;Válvula termostática - Marca B - Aplic. V48;3,0;62,98;107,22;Arrefecimento;Marca B;Distribuidora 3;;Não
+P00154;Mangueira superior - Marca G - Aplic. V22;5,0;122,04;180,15;Arrefecimento;Marca G;Distribuidora 6;;Não
+P00155;Motor de partida - Marca B - Aplic. V31;4,0;58,28;99,99;Elétrica;Marca B;Distribuidora 1;;Não
+P00156;Compressor - Marca H - Aplic. V47;1,0;77,02;116,96;Ar-condicionado;Marca H;Distribuidora 7;;Não
+P00157;Bieleta - Marca E - Aplic. V36;1,0;193,65;335,89;Suspensão;Marca E;Distribuidora 4;;Não
+P00158;Kit de distribuição - Marca E - Aplic. V26;4,0;29,28;51,48;Motor;Marca E;Distribuidora 3;;Não
+P00159;Pastilha de freio traseira - Marca H - Aplic. V24;2,0;58,22;86,85;Freios;Marca H;Distribuidora 2;;Não
+P00160;Filtro de ar - Marca B - Aplic. V50;4,0;53,11;85,18;Filtros;Marca B;Distribuidora 7;;Não
+P00161;Cilindro mestre - Marca D - Aplic. V27;1,0;35,55;66,26;Freios;Marca D;Distribuidora 1;;Não
+P00162;Válvula de expansão - Marca C - Aplic. V09;1,0;188,73;311,54;Ar-condicionado;Marca C;Distribuidora 8;;Não
+P00163;Terminal axial - Marca H - Aplic. V28;1,0;268,52;441,23;Direção;Marca H;Distribuidora 2;;Não
+P00164;Fluido de freio - Marca B - Aplic. V60;11,0;15,02;26,17;Lubrificantes;Marca B;Distribuidora 8;;Não
+P00165;Lâmpada de farol - Marca B - Aplic. V18;5,0;12,64;24,22;Elétrica;Marca B;Distribuidora 4;;Não
+P00166;Kit de embreagem - Marca F - Aplic. V27;2,0;61,27;102,42;Transmissão;Marca F;Distribuidora 7;;Não
+P00167;Lâmpada de placa - Marca E - Aplic. V07;4,0;16,16;24,96;Elétrica;Marca E;Distribuidora 8;;Não
+P00168;Mangueira superior - Marca A - Aplic. V26;4,0;58,03;108,18;Arrefecimento;Marca A;Distribuidora 2;;Não
+P00169;Pivô de suspensão - Marca B - Aplic. V27;1,0;65,53;102,53;Suspensão;Marca B;Distribuidora 8;;Não
+P00170;Válvula de expansão - Marca G - Aplic. V15;1,0;441,77;758,3;Ar-condicionado;Marca G;Distribuidora 3;;Não
+P00171;Semieixo - Marca D - Aplic. V10;2,0;72,03;111,95;Transmissão;Marca D;Distribuidora 4;;Não
+P00172;Bobina de ignição - Marca A - Aplic. V21;2,0;23,92;38,07;Elétrica;Marca A;Distribuidora 4;;Não
+P00173;Bobina de ignição - Marca F - Aplic. V52;1,0;135,84;247,47;Elétrica;Marca F;Distribuidora 1;;Não
+P00174;Pastilha de freio traseira - Marca C - Aplic. V54;9,0;53,09;78,2;Freios;Marca C;Distribuidora 7;;Não
+P00175;Filtro de óleo - Marca F - Aplic. V10;3,0;12,31;18,98;Filtros;Marca F;Distribuidora 3;;Não
+P00176;Vela de ignição - Marca H - Aplic. V25;2,0;90,05;156,12;Motor;Marca H;Distribuidora 3;;Não
+P00177;Calota - Marca F - Aplic. V17;0,0;63,87;116,01;Acessórios;Marca F;Distribuidora 3;;Não
+P00178;Calota - Marca A - Aplic. V37;5,0;12,88;20,77;Acessórios;Marca A;Distribuidora 7;;Não
+P00179;Tapete de borracha - Marca H - Aplic. V34;7,0;11,44;17,68;Acessórios;Marca H;Distribuidora 3;;Não
+P00180;Óleo 15W40 - Marca F - Aplic. V53;13,0;16,8;27,02;Lubrificantes;Marca F;Distribuidora 4;;Não
+P00181;Condensador - Marca F - Aplic. V06;3,0;240,73;356,87;Ar-condicionado;Marca F;Distribuidora 2;;Não
+P00182;Tapete de borracha - Marca D - Aplic. V39;0,0;43,67;81,95;Acessórios;Marca D;Distribuidora 5;;Não
+P00183;Terminal de direção - Marca B - Aplic. V41;8,0;45,39;82,22;Direção;Marca B;Distribuidora 2;;Não
+P00184;Cabo de embreagem - Marca D - Aplic. V21;3,0;78,02;119,89;Transmissão;Marca D;Distribuidora 3;;Não
+P00185;Condensador - Marca A - Aplic. V38;5,0;74,69;123,36;Ar-condicionado;Marca A;Distribuidora 7;;Não
+P00186;Filtro de ar - Marca D - Aplic. V38;29,0;15,37;27,68;Filtros;Marca D;Distribuidora 5;;Não
+P00187;Filtro de cabine - Marca G - Aplic. V39;3,0;35,52;67,8;Filtros;Marca G;Distribuidora 3;;Não
+P00188;Filtro de óleo - Marca H - Aplic. V60;2,0;19,13;29,11;Filtros;Marca H;Distribuidora 6;;Não
+P00189;Lona de freio - Marca G - Aplic. V49;2,0;159,99;244,35;Freios;Marca G;Distribuidora 4;;Não
+P00190;Pastilha de freio dianteira - Marca D - Aplic. V37;5,0;43,31;75,5;Freios;Marca D;Distribuidora 4;;Não
+P00191;Cilindro mestre - Marca G - Aplic. V16;0,0;125,66;230,03;Freios;Marca G;Distribuidora 2;;Não
+P00192;Bobina de ignição - Marca D - Aplic. V34;6,0;55,67;83,0;Elétrica;Marca D;Distribuidora 8;;Não
+P00193;Filtro de óleo - Marca H - Aplic. V03;9,0;32,81;58,26;Filtros;Marca H;Distribuidora 6;;Não
+P00194;Bateria 60Ah - Marca C - Aplic. V26;1,0;6,85;12,14;Elétrica;Marca C;Distribuidora 7;;Não
+P00195;Óleo 10W40 - Marca A - Aplic. V27;19,0;22,95;36,09;Lubrificantes;Marca A;Distribuidora 3;;Não
+P00196;Radiador - Marca A - Aplic. V06;4,0;34,47;52,48;Arrefecimento;Marca A;Distribuidora 8;;Não
+P00197;Filtro de óleo - Marca F - Aplic. V32;8,0;29,21;44,25;Filtros;Marca F;Distribuidora 2;;Não
+P00198;Bieleta - Marca G - Aplic. V52;3,0;100,72;181,64;Suspensão;Marca G;Distribuidora 2;;Não
+P00199;Válvula de expansão - Marca D - Aplic. V36;1,0;144,54;247,07;Ar-condicionado;Marca D;Distribuidora 1;;Não
+P00200;Junta homocinética - Marca D - Aplic. V28;1,0;63,19;110,25;Transmissão;Marca D;Distribuidora 4;;Não
+P00201;Tapete de borracha - Marca D - Aplic. V45;2,0;35,82;64,93;Acessórios;Marca D;Distribuidora 4;;Não
+P00202;Radiador - Marca G - Aplic. V30;3,0;72,13;113,75;Arrefecimento;Marca G;Distribuidora 4;;Não
+P00203;Motor de partida - Marca G - Aplic. V51;0,0;260,47;415,39;Elétrica;Marca G;Distribuidora 7;;Não
+P00204;Cilindro mestre - Marca F - Aplic. V40;3,0;34,34;61,25;Freios;Marca F;Distribuidora 6;;Não
+P00205;Bobina de ignição - Marca C - Aplic. V24;4,0;10,37;19,81;Elétrica;Marca C;Distribuidora 4;;Não
+P00206;Filtro de ar - Marca F - Aplic. V53;4,0;32,44;60,0;Filtros;Marca F;Distribuidora 7;;Não
+P00207;Palheta do limpador - Marca F - Aplic. V48;3,0;2,88;5,12;Acessórios;Marca F;Distribuidora 2;;Não
+P00208;Válvula de expansão - Marca D - Aplic. V04;0,0;87,49;152,15;Ar-condicionado;Marca D;Distribuidora 5;;Não
+P00209;Bomba de direção - Marca F - Aplic. V59;3,0;152,11;271,9;Direção;Marca F;Distribuidora 6;;Não
+P00210;Filtro de combustível - Marca F - Aplic. V24;2,0;31,18;58,72;Filtros;Marca F;Distribuidora 6;;Não
+P00211;Amortecedor dianteiro - Marca H - Aplic. V47;5,0;122,92;208,53;Suspensão;Marca H;Distribuidora 3;;Sim
+P00212;Bieleta - Marca E - Aplic. V23;3,0;103,22;183,55;Suspensão;Marca E;Distribuidora 2;;Não
+P00213;Óleo 15W40 - Marca C - Aplic. V42;2,0;32,63;62,0;Lubrificantes;Marca C;Distribuidora 4;;Não
+P00214;Motor de partida - Marca D - Aplic. V45;6,0;18,81;27,81;Elétrica;Marca D;Distribuidora 1;;Não
+P00215;Tapete de borracha - Marca C - Aplic. V41;1,0;28,3;53,54;Acessórios;Marca C;Distribuidora 3;;Não
+P00216;Bucha de bandeja - Marca H - Aplic. V51;6,0;265,59;452,54;Suspensão;Marca H;Distribuidora 2;;Não
+P00217;Terminal axial - Marca C - Aplic. V56;6,0;69,22;107,29;Direção;Marca C;Distribuidora 6;;Não
+P00218;Trava elétrica - Marca G - Aplic. V08;2,0;41,3;74,18;Acessórios;Marca G;Distribuidora 1;;Não
+P00219;Óleo 5W30 - Marca E - Aplic. V19;1,0;33,51;56,62;Lubrificantes;Marca E;Distribuidora 4;;Não
+P00220;Tapete de borracha - Marca G - Aplic. V54;6,0;8,98;15,86;Acessórios;Marca G;Distribuidora 3;;Não
+P00221;Terminal de direção - Marca H - Aplic. V32;11,0;73,42;125,16;Direção;Marca H;Distribuidora 1;;Não
+P00222;Pastilha de freio dianteira - Marca F - Aplic. V40;3,0;33,53;60,8;Freios;Marca F;Distribuidora 7;;Não
+P00223;Lâmpada de farol - Marca F - Aplic. V35;7,0;19,96;31,33;Elétrica;Marca F;Distribuidora 2;;Não
+P00224;Radiador - Marca G - Aplic. V13;1,0;34,48;56,18;Arrefecimento;Marca G;Distribuidora 1;;Não
+P00225;Alternador - Marca D - Aplic. V15;2,0;52,72;88,75;Elétrica;Marca D;Distribuidora 7;;Não
+P00226;Óleo 5W30 - Marca D - Aplic. V08;3,0;25,77;44,06;Lubrificantes;Marca D;Distribuidora 4;;Não
+P00227;Aditivo de radiador - Marca B - Aplic. V55;0,0;35,11;62,73;Arrefecimento;Marca B;Distribuidora 3;;Não
+P00228;Bateria 60Ah - Marca G - Aplic. V33;6,0;11,67;19,32;Elétrica;Marca G;Distribuidora 2;;Não
+P00229;Terminal axial - Marca C - Aplic. V45;2,0;77,6;129,26;Direção;Marca C;Distribuidora 3;;Não
+P00230;Calota - Marca F - Aplic. V28;10,0;88,21;149,82;Acessórios;Marca F;Distribuidora 7;;Não
+P00231;Bieleta - Marca D - Aplic. V30;3,0;98,99;147,24;Suspensão;Marca D;Distribuidora 2;;Não
+P00232;Bomba d'água - Marca A - Aplic. V42;2,0;30,11;49,01;Arrefecimento;Marca A;Distribuidora 6;;Não
+P00233;Caixa de direção - Marca C - Aplic. V52;6,0;471,49;766,15;Direção;Marca C;Distribuidora 4;;Não
+P00234;Bomba de direção - Marca A - Aplic. V45;2,0;397,12;681,12;Direção;Marca A;Distribuidora 1;;Não
+P00235;Óleo de câmbio - Marca H - Aplic. V12;3,0;48,96;75,04;Lubrificantes;Marca H;Distribuidora 8;;Não
+P00236;Filtro de cabine - Marca B - Aplic. V46;3,0;10,04;18,95;Filtros;Marca B;Distribuidora 4;;Não
+P00237;Bomba d'água - Marca H - Aplic. V16;0,0;15,82;28,63;Arrefecimento;Marca H;Distribuidora 3;;Não
+P00238;Disco de freio - Marca A - Aplic. V23;3,0;79,53;119,78;Freios;Marca A;Distribuidora 1;;Não
+P00239;Motor de partida - Marca F - Aplic. V20;0,0;36,41;56,23;Elétrica;Marca F;Distribuidora 7;;Não
+P00240;Filtro secador - Marca C - Aplic. V56;5,0;738,29;1192,36;Ar-condicionado;Marca C;Distribuidora 8;;Não
+P00241;Vela de ignição - Marca C - Aplic. V44;1,0;209,72;364,36;Motor;Marca C;Distribuidora 8;;Não
+P00242;Lona de freio - Marca A - Aplic. V04;0,0;137,56;246,91;Freios;Marca A;Distribuidora 6;;Não
+P00243;Semieixo - Marca E - Aplic. V07;2,0;66,69;116,04;Transmissão;Marca E;Distribuidora 8;;Não
+P00244;Radiador - Marca B - Aplic. V14;5,0;21,37;31,51;Arrefecimento;Marca B;Distribuidora 3;;Não
+P00245;Óleo 5W30 - Marca B - Aplic. V30;0,0;22,19;42,59;Lubrificantes;Marca B;Distribuidora 8;;Não
+P00246;Bomba de óleo - Marca C - Aplic. V38;0,0;195,45;292,37;Motor;Marca C;Distribuidora 1;;Não
+P00247;Óleo 5W30 - Marca G - Aplic. V46;3,0;17,98;29,53;Lubrificantes;Marca G;Distribuidora 5;;Não
+P00248;Bomba d'água - Marca F - Aplic. V34;0,0;36,16;64,74;Arrefecimento;Marca F;Distribuidora 4;;Não
+P00249;Terminal de direção - Marca C - Aplic. V04;0,0;72,59;109,65;Direção;Marca C;Distribuidora 8;;Não
+P00250;Bomba de óleo - Marca C - Aplic. V47;30,0;115,83;205,04;Motor;Marca C;Distribuidora 4;;Não
+P00251;Correia dentada - Marca C - Aplic. V09;5,0;266,96;435,8;Motor;Marca C;Distribuidora 3;;Não
+P00252;Junta homocinética - Marca H - Aplic. V14;2,0;60,87;113,09;Transmissão;Marca H;Distribuidora 7;;Não
+P00253;Pastilha de freio dianteira - Marca F - Aplic. V17;6,0;148,05;219,01;Freios;Marca F;Distribuidora 7;;Não
+P00254;Disco de freio - Marca F - Aplic. V24;2,0;184,66;306,01;Freios;Marca F;Distribuidora 3;;Não
+P00255;Amortecedor dianteiro - Marca B - Aplic. V31;0,0;45,64;71,86;Suspensão;Marca B;Distribuidora 4;;Não
+P00256;Kit de embreagem - Marca G - Aplic. V46;2,0;32,07;57,31;Transmissão;Marca G;Distribuidora 8;;Não
+P00257;Filtro de combustível - Marca C - Aplic. V37;4,0;43,83;68,72;Filtros;Marca C;Distribuidora 8;;Não
+P00258;Calota - Marca C - Aplic. V59;0,0;25,89;44,86;Acessórios;Marca C;Distribuidora 7;;Não
+P00259;Alternador - Marca G - Aplic. V13;4,0;208,31;313,98;Elétrica;Marca G;Distribuidora 4;;Não
+P00260;Amortecedor dianteiro - Marca D - Aplic. V47;4,0;173,63;303,01;Suspensão;Marca D;Distribuidora 6;;Não
+P00261;Filtro de óleo - Marca E - Aplic. V37;4,0;25,67;47,74;Filtros;Marca E;Distribuidora 5;;Não
+P00262;Trava elétrica - Marca H - Aplic. V01;2,0;99,21;147,84;Acessórios;Marca H;Distribuidora 1;;Não
+P00263;Óleo de câmbio - Marca E - Aplic. V52;5,0;17,05;28,94;Lubrificantes;Marca E;Distribuidora 7;;Não
+P00264;Óleo 15W40 - Marca F - Aplic. V32;43,0;34,55;65,44;Lubrificantes;Marca F;Distribuidora 5;;Não
+P00265;Fluido de freio - Marca G - Aplic. V30;3,0;31,57;56,04;Lubrificantes;Marca G;Distribuidora 8;;Não
+P00266;Filtro de ar - Marca G - Aplic. V19;5,0;42,97;73,38;Filtros;Marca G;Distribuidora 3;;Não
+P00267;Terminal de direção - Marca C - Aplic. V34;1,0;40,7;71,03;Direção;Marca C;Distribuidora 2;;Não
+P00268;Pastilha de freio traseira - Marca A - Aplic. V37;3,0;123,42;202,03;Freios;Marca A;Distribuidora 4;;Não
+P00269;Bieleta - Marca C - Aplic. V12;0,0;77,76;130,65;Suspensão;Marca C;Distribuidora 7;;Não
+P00270;Terminal axial - Marca E - Aplic. V60;30,0;136,71;206,02;Direção;Marca E;Distribuidora 5;;Não
+P00271;Lâmpada de placa - Marca C - Aplic. V41;7,0;17,05;25,3;Elétrica;Marca C;Distribuidora 1;;Não
+P00272;Pastilha de freio dianteira - Marca D - Aplic. V21;2,0;47,37;72,82;Freios;Marca D;Distribuidora 7;;Não
+P00273;Vela de ignição - Marca F - Aplic. V27;2,0;229,95;380,44;Motor;Marca F;Distribuidora 1;;Não
+P00274;Caixa de direção - Marca F - Aplic. V43;5,0;448,56;727,75;Direção;Marca F;Distribuidora 6;;Não
+P00275;Vela de ignição - Marca D - Aplic. V13;4,0;97,3;146,36;Motor;Marca D;Distribuidora 5;;Não
+P00276;Válvula termostática - Marca G - Aplic. V59;1,0;111,29;209,75;Arrefecimento;Marca G;Distribuidora 8;;Não
+P00277;Óleo 5W30 - Marca G - Aplic. V29;8,0;24,32;42,87;Lubrificantes;Marca G;Distribuidora 7;;Não
+P00278;Calota - Marca D - Aplic. V18;1,0;59,85;105,63;Acessórios;Marca D;Distribuidora 1;;Não
+P00279;Trava elétrica - Marca D - Aplic. V44;7,0;73,37;112,58;Acessórios;Marca D;Distribuidora 3;;Não
+P00280;Caixa de direção - Marca B - Aplic. V41;3,0;94,83;151,82;Direção;Marca B;Distribuidora 5;;Não
+P00281;Mangueira superior - Marca H - Aplic. V40;0,0;197,78;309,37;Arrefecimento;Marca H;Distribuidora 3;;Não
+P00282;Junta do cabeçote - Marca F - Aplic. V34;2,0;58,08;87,52;Motor;Marca F;Distribuidora 7;;Não
+P00283;Filtro de óleo - Marca D - Aplic. V11;10,0;42,98;78,63;Filtros;Marca D;Distribuidora 2;;Não
+P00284;Junta homocinética - Marca G - Aplic. V45;3,0;69,12;115,3;Transmissão;Marca G;Distribuidora 5;;Não
+P00285;Palheta do limpador - Marca B - Aplic. V43;0,0;15,15;26,98;Acessórios;Marca B;Distribuidora 2;;Não
+P00286;Pastilha de freio dianteira - Marca G - Aplic. V51;3,0;161,71;269,39;Freios;Marca G;Distribuidora 7;;Não
+P00287;Disco de freio - Marca C - Aplic. V52;1,0;64,6;107,78;Freios;Marca C;Distribuidora 2;;Não
+P00288;Cabo de embreagem - Marca B - Aplic. V47;2,0;43,17;81,42;Transmissão;Marca B;Distribuidora 4;;Não
+P00289;Calota - Marca D - Aplic. V49;9,0;52,69;77,94;Acessórios;Marca D;Distribuidora 6;;Não
+P00290;Bomba de direção - Marca H - Aplic. V11;0,0;208,78;353,2;Direção;Marca H;Distribuidora 8;;Não
+P00291;Óleo 15W40 - Marca G - Aplic. V09;0,0;23,56;34,81;Lubrificantes;Marca G;Distribuidora 5;;Não
+P00292;Lona de freio - Marca E - Aplic. V26;12,0;69,31;121,61;Freios;Marca E;Distribuidora 7;;Não
+P00293;Palheta do limpador - Marca G - Aplic. V54;845,0;6,39;11,39;Acessórios;Marca G;Distribuidora 2;;Não
+P00294;Válvula termostática - Marca H - Aplic. V38;17,0;18,29;29,89;Arrefecimento;Marca H;Distribuidora 3;;Não
+P00295;Válvula termostática - Marca F - Aplic. V15;4,0;128,7;231,8;Arrefecimento;Marca F;Distribuidora 4;;Não
+P00296;Condensador - Marca G - Aplic. V46;3,0;72,75;130,6;Ar-condicionado;Marca G;Distribuidora 1;;Não
+P00297;Filtro secador - Marca D - Aplic. V28;3,0;971,94;1592,73;Ar-condicionado;Marca D;Distribuidora 6;;Não
+P00298;Bomba de direção - Marca E - Aplic. V29;0,0;236,03;411,34;Direção;Marca E;Distribuidora 6;;Não
+P00299;Palheta do limpador - Marca A - Aplic. V28;2,0;18,3;28,26;Acessórios;Marca A;Distribuidora 6;;Não
+P00300;Kit de distribuição - Marca A - Aplic. V29;3,0;243,62;364,6;Motor;Marca A;Distribuidora 4;;Não
+P00301;Bomba d'água - Marca E - Aplic. V08;8,0;77,42;124,87;Arrefecimento;Marca E;Distribuidora 7;;Não
+P00302;Pastilha de freio traseira - Marca F - Aplic. V55;3,0;35,37;61,3;Freios;Marca F;Distribuidora 5;;Não
+P00303;Calota - Marca A - Aplic. V39;8,0;11,55;20,56;Acessórios;Marca A;Distribuidora 4;;Não
+P00304;Palheta do limpador - Marca G - Aplic. V53;5,0;2,52;4,43;Acessórios;Marca G;Distribuidora 8;;Não
+P00305;Aditivo de radiador - Marca E - Aplic. V23;4,0;29,04;49,7;Arrefecimento;Marca E;Distribuidora 2;;Não
+P00306;Junta do cabeçote - Marca G - Aplic. V60;1,0;22,68;33,43;Motor;Marca G;Distribuidora 7;;Não
+P00307;Bomba de óleo - Marca E - Aplic. V16;7,0;44,71;81,4;Motor;Marca E;Distribuidora 2;;Não
+P00308;Bomba de óleo - Marca C - Aplic. V36;3,0;205,44;318,14;Motor;Marca C;Distribuidora 1;;Não
+P00309;Filtro de ar - Marca F - Aplic. V08;3,0;11,83;18,56;Filtros;Marca F;Distribuidora 1;;Não
+P00310;Caixa de direção - Marca F - Aplic. V42;6,0;86,3;155,89;Direção;Marca F;Distribuidora 7;;Não
+P00311;Kit de embreagem - Marca D - Aplic. V40;3,0;38,8;72,67;Transmissão;Marca D;Distribuidora 6;;Não
+P00312;Vela de ignição - Marca B - Aplic. V14;2,0;157,18;251,13;Motor;Marca B;Distribuidora 5;;Não
+P00313;Motor de partida - Marca F - Aplic. V21;1,0;95,36;150,94;Elétrica;Marca F;Distribuidora 2;;Não
+P00314;Válvula termostática - Marca A - Aplic. V30;0,0;31,5;58,51;Arrefecimento;Marca A;Distribuidora 4;;Não
+P00315;Kit de distribuição - Marca A - Aplic. V53;4,0;106,03;183,03;Motor;Marca A;Distribuidora 6;;Não
+P00316;Terminal de direção - Marca D - Aplic. V31;0,0;72,9;118,95;Direção;Marca D;Distribuidora 5;;Não
+P00317;Compressor - Marca H - Aplic. V20;2,0;69,11;101,86;Ar-condicionado;Marca H;Distribuidora 8;;Não
+P00318;Correia dentada - Marca C - Aplic. V53;6,0;140,08;224,43;Motor;Marca C;Distribuidora 7;;Não
+P00319;Óleo 15W40 - Marca C - Aplic. V52;4,0;27,71;51,59;Lubrificantes;Marca C;Distribuidora 8;;Não
+P00320;Tapete de borracha - Marca D - Aplic. V13;1,0;10,2;15,83;Acessórios;Marca D;Distribuidora 7;;Não
+P00321;Filtro secador - Marca A - Aplic. V45;3,0;472,75;875,14;Ar-condicionado;Marca A;Distribuidora 6;;Não
+P00322;Óleo 15W40 - Marca E - Aplic. V14;1,0;33,48;55,74;Lubrificantes;Marca E;Distribuidora 3;;Não
+P00323;Aditivo de radiador - Marca H - Aplic. V04;4,0;84,34;158,95;Arrefecimento;Marca H;Distribuidora 5;;Não
+P00324;Bomba de direção - Marca A - Aplic. V29;6,0;401,83;614,79;Direção;Marca A;Distribuidora 6;;Não
+P00325;Compressor - Marca E - Aplic. V17;2,0;332,45;521,4;Ar-condicionado;Marca E;Distribuidora 5;;Não
+P00326;Óleo 10W40 - Marca C - Aplic. V01;1,0;27,88;44,55;Lubrificantes;Marca C;Distribuidora 4;;Não
+P00327;Óleo 15W40 - Marca B - Aplic. V12;0,0;14,12;25,74;Lubrificantes;Marca B;Distribuidora 1;;Não
+P00328;Compressor - Marca G - Aplic. V32;1,0;473,53;801,13;Ar-condicionado;Marca G;Distribuidora 6;;Não
+P00329;Fluido de freio - Marca A - Aplic. V10;5,0;25,83;42,95;Lubrificantes;Marca A;Distribuidora 7;;Não
+P00330;Óleo 10W40 - Marca F - Aplic. V10;1,0;23,96;38,63;Lubrificantes;Marca F;Distribuidora 2;;Não
+P00331;Alternador - Marca D - Aplic. V49;4,0;32,07;50,79;Elétrica;Marca D;Distribuidora 3;;Não
+P00332;Vela de ignição - Marca C - Aplic. V60;1,0;94,89;148,13;Motor;Marca C;Distribuidora 3;;Não
+P00333;Tapete de borracha - Marca C - Aplic. V54;1,0;29,56;46,56;Acessórios;Marca C;Distribuidora 8;;Não
+P00334;Disco de freio - Marca F - Aplic. V02;3,0;50,94;87,56;Freios;Marca F;Distribuidora 7;;Não
+P00335;Válvula de expansão - Marca H - Aplic. V23;0,0;903,25;1383,16;Ar-condicionado;Marca H;Distribuidora 6;;Não
+P00336;Cilindro mestre - Marca E - Aplic. V31;4,0;128,56;189,56;Freios;Marca E;Distribuidora 1;;Não
+P00337;Trava elétrica - Marca G - Aplic. V02;4,0;12,86;21,01;Acessórios;Marca G;Distribuidora 2;;Não
+P00338;Filtro de óleo - Marca G - Aplic. V34;3,0;13,16;22,87;Filtros;Marca G;Distribuidora 8;;Não
+P00339;Semieixo - Marca H - Aplic. V17;2,0;196,81;340,49;Transmissão;Marca H;Distribuidora 4;;Não
+P00340;Filtro de cabine - Marca A - Aplic. V12;42,0;13,35;20,74;Filtros;Marca A;Distribuidora 6;;Não
+P00341;Pivô de suspensão - Marca H - Aplic. V03;2,0;74,89;131,96;Suspensão;Marca H;Distribuidora 8;;Não
+P00342;Amortecedor traseiro - Marca H - Aplic. V19;2,0;287,03;436,4;Suspensão;Marca H;Distribuidora 2;;Não
+P00343;Radiador - Marca F - Aplic. V53;7,0;115,57;190,75;Arrefecimento;Marca F;Distribuidora 7;;Não
+P00344;Kit de embreagem - Marca E - Aplic. V17;7,0;88,87;133,81;Transmissão;Marca E;Distribuidora 7;;Não
+P00345;Filtro de óleo - Marca B - Aplic. V59;4,0;34,27;62,37;Filtros;Marca B;Distribuidora 3;;Não
+P00346;Válvula de expansão - Marca B - Aplic. V41;1,0;288,95;517,12;Ar-condicionado;Marca B;Distribuidora 3;;Não
+P00347;Caixa de direção - Marca A - Aplic. V07;7,0;83,97;160,42;Direção;Marca A;Distribuidora 7;;Não
+P00348;Filtro secador - Marca D - Aplic. V48;3,0;320,83;565,8;Ar-condicionado;Marca D;Distribuidora 1;;Não
+P00349;Disco de freio - Marca H - Aplic. V29;2,0;173,15;316,46;Freios;Marca H;Distribuidora 7;;Não
+P00350;Correia dentada - Marca G - Aplic. V19;1,0;62,51;104,72;Motor;Marca G;Distribuidora 2;;Não
+P00351;Pastilha de freio dianteira - Marca H - Aplic. V43;3,0;133,34;251,52;Freios;Marca H;Distribuidora 4;;Não
+P00352;Óleo 10W40 - Marca H - Aplic. V41;4,0;43,78;78,73;Lubrificantes;Marca H;Distribuidora 5;;Não
+P00353;Filtro de cabine - Marca E - Aplic. V36;1,0;31,82;55,2;Filtros;Marca E;Distribuidora 4;;Não
+P00354;Junta homocinética - Marca B - Aplic. V12;3,0;63,31;112,89;Transmissão;Marca B;Distribuidora 1;;Não
+P00355;Fluido de freio - Marca H - Aplic. V45;1,0;16,31;25,24;Lubrificantes;Marca H;Distribuidora 6;;Não
+P00356;Óleo 5W30 - Marca D - Aplic. V05;3,0;31,32;49,96;Lubrificantes;Marca D;Distribuidora 2;;Não
+P00357;Bomba de direção - Marca F - Aplic. V35;0,0;308,54;456,92;Direção;Marca F;Distribuidora 4;;Não
+P00358;Semieixo - Marca G - Aplic. V42;3,0;124,12;220,09;Transmissão;Marca G;Distribuidora 6;;Não
+P00359;Pastilha de freio traseira - Marca H - Aplic. V42;4,0;90,32;159,53;Freios;Marca H;Distribuidora 8;;Não
+P00360;Radiador - Marca H - Aplic. V04;0,0;20,08;37,35;Arrefecimento;Marca H;Distribuidora 5;;Não
+P00361;Lona de freio - Marca B - Aplic. V27;2,0;117,1;201,47;Freios;Marca B;Distribuidora 1;;Não
+P00362;Semieixo - Marca B - Aplic. V14;2,0;247,56;431,39;Transmissão;Marca B;Distribuidora 1;;Não
+P00363;Bieleta - Marca G - Aplic. V57;3,0;179,47;264,47;Suspensão;Marca G;Distribuidora 6;;Não
+P00364;Kit de embreagem - Marca A - Aplic. V22;3,0;176,1;275,28;Transmissão;Marca A;Distribuidora 6;;Não
+P00365;Motor de partida - Marca F - Aplic. V03;11,0;10,44;16,22;Elétrica;Marca F;Distribuidora 1;;Não
+P00366;Junta homocinética - Marca E - Aplic. V15;0,0;62,91;103,92;Transmissão;Marca E;Distribuidora 1;;Não
+P00367;Junta do cabeçote - Marca A - Aplic. V08;1,0;155,11;238,93;Motor;Marca A;Distribuidora 3;;Não
+P00368;Calota - Marca A - Aplic. V14;1,0;31,14;48,3;Acessórios;Marca A;Distribuidora 1;;Não
+P00369;Terminal axial - Marca E - Aplic. V40;7,0;80,19;127,47;Direção;Marca E;Distribuidora 8;;Sim
+P00370;Óleo 15W40 - Marca C - Aplic. V27;2,0;45,35;67,61;Lubrificantes;Marca C;Distribuidora 4;;Não
+P00371;Óleo 5W30 - Marca C - Aplic. V02;6,0;50,08;78,56;Lubrificantes;Marca C;Distribuidora 1;;Não
+P00372;Óleo 15W40 - Marca C - Aplic. V34;6,0;21,59;40,93;Lubrificantes;Marca C;Distribuidora 6;;Não
+P00373;Condensador - Marca B - Aplic. V50;2,0;68,65;123,6;Ar-condicionado;Marca B;Distribuidora 6;;Não
+P00374;Compressor - Marca D - Aplic. V47;2,0;164,13;245,11;Ar-condicionado;Marca D;Distribuidora 2;;Não
+P00375;Disco de freio - Marca E - Aplic. V35;1,0;105,0;161,2;Freios;Marca E;Distribuidora 6;;Não
+P00376;Compressor - Marca C - Aplic. V49;0,0;62,59;114,38;Ar-condicionado;Marca C;Distribuidora 4;;Não
+P00377;Lona de freio - Marca A - Aplic. V53;1,0;160,27;273,35;Freios;Marca A;Distribuidora 6;;Não
+P00378;Cabo de embreagem - Marca B - Aplic. V04;2,0;190,51;347,71;Transmissão;Marca B;Distribuidora 5;;Não
+P00379;Semieixo - Marca H - Aplic. V32;2,0;358,98;550,36;Transmissão;Marca H;Distribuidora 8;;Não
+P00380;Condensador - Marca E - Aplic. V35;1,0;122,45;225,01;Ar-condicionado;Marca E;Distribuidora 6;;Não
+P00381;Filtro de combustível - Marca E - Aplic. V45;1,0;12,7;20,02;Filtros;Marca E;Distribuidora 1;;Não
+P00382;Amortecedor traseiro - Marca C - Aplic. V13;3,0;176,77;270,44;Suspensão;Marca C;Distribuidora 7;;Não
+P00383;Lâmpada de placa - Marca E - Aplic. V55;2,0;16,21;24,42;Elétrica;Marca E;Distribuidora 8;;Não
+P00384;Filtro de combustível - Marca A - Aplic. V45;4,0;15,52;27,69;Filtros;Marca A;Distribuidora 4;;Não
+P00385;Lona de freio - Marca B - Aplic. V45;2,0;137,09;249,66;Freios;Marca B;Distribuidora 1;;Não
+P00386;Junta homocinética - Marca G - Aplic. V44;3,0;63,75;94,47;Transmissão;Marca G;Distribuidora 3;;Não
+P00387;Terminal de direção - Marca G - Aplic. V35;0,0;123,96;220,16;Direção;Marca G;Distribuidora 2;;Não
+P00388;Calota - Marca H - Aplic. V58;2,0;61,77;97,58;Acessórios;Marca H;Distribuidora 1;;Não
+P00389;Caixa de direção - Marca D - Aplic. V28;2,0;238,03;440,13;Direção;Marca D;Distribuidora 3;;Não
+P00390;Calota - Marca A - Aplic. V24;3,0;20,01;30,2;Acessórios;Marca A;Distribuidora 7;;Não
+P00391;Aditivo de radiador - Marca F - Aplic. V26;2,0;124,54;215,97;Arrefecimento;Marca F;Distribuidora 2;;Não
+P00392;Terminal de direção - Marca H - Aplic. V18;1,0;559,78;869,01;Direção;Marca H;Distribuidora 4;;Não
+P00393;Bomba d'água - Marca H - Aplic. V12;1,0;266,41;426,49;Arrefecimento;Marca H;Distribuidora 3;;Não
+P00394;Trava elétrica - Marca D - Aplic. V14;3,0;25,46;45,1;Acessórios;Marca D;Distribuidora 4;;Não
+P00395;Amortecedor traseiro - Marca A - Aplic. V60;5,0;205,57;314,08;Suspensão;Marca A;Distribuidora 6;;Não
+P00396;Óleo 5W30 - Marca B - Aplic. V45;1,0;22,06;32,94;Lubrificantes;Marca B;Distribuidora 5;;Não
+P00397;Calota - Marca D - Aplic. V56;3,0;16,24;24,13;Acessórios;Marca D;Distribuidora 5;;Não
+P00398;Óleo 15W40 - Marca G - Aplic. V09;11,0;39,97;71,13;Lubrificantes;Marca G;Distribuidora 4;;Não
+P00399;Condensador - Marca G - Aplic. V15;2,0;580,02;995,57;Ar-condicionado;Marca G;Distribuidora 7;;Não
+P00400;Bateria 60Ah - Marca C - Aplic. V30;2,0;21,83;32,72;Elétrica;Marca C;Distribuidora 7;;Não
+P00401;Pivô de suspensão - Marca C - Aplic. V20;7,0;234,65;396,59;Suspensão;Marca C;Distribuidora 4;;Não
+P00402;Condensador - Marca E - Aplic. V21;1,0;99,45;176,75;Ar-condicionado;Marca E;Distribuidora 3;;Não
+P00403;Óleo de câmbio - Marca C - Aplic. V01;6,0;29,36;45,54;Lubrificantes;Marca C;Distribuidora 1;;Não
+P00404;Cabo de embreagem - Marca B - Aplic. V07;2,0;87,4;161,22;Transmissão;Marca B;Distribuidora 6;;Não
+P00405;Fluido de freio - Marca D - Aplic. V53;3,0;31,9;48,13;Lubrificantes;Marca D;Distribuidora 5;;Não
+P00406;Filtro secador - Marca G - Aplic. V46;3,0;79,12;130,13;Ar-condicionado;Marca G;Distribuidora 7;;Não
+P00407;Bobina de ignição - Marca F - Aplic. V17;0,0;14,79;23,4;Elétrica;Marca F;Distribuidora 4;;Não
+P00408;Tapete de borracha - Marca G - Aplic. V14;2,0;66,0;101,04;Acessórios;Marca G;Distribuidora 2;;Não
+P00409;Amortecedor dianteiro - Marca E - Aplic. V34;1,0;148,71;254,26;Suspensão;Marca E;Distribuidora 7;;Não
+P00410;Calota - Marca H - Aplic. V16;3,0;70,16;120,79;Acessórios;Marca H;Distribuidora 7;;Não
+P00411;Mangueira superior - Marca E - Aplic. V36;1,0;29,77;44,93;Arrefecimento;Marca E;Distribuidora 7;;Não
+P00412;Aditivo de radiador - Marca B - Aplic. V23;6,0;112,59;214,12;Arrefecimento;Marca B;Distribuidora 6;;Não
+P00413;Válvula de expansão - Marca H - Aplic. V29;1,0;203,66;388,04;Ar-condicionado;Marca H;Distribuidora 3;;Não
+P00414;Vela de ignição - Marca G - Aplic. V42;3,0;42,18;76,54;Motor;Marca G;Distribuidora 5;;Não
+P00415;Correia dentada - Marca E - Aplic. V41;7,0;56,55;90,25;Motor;Marca E;Distribuidora 7;;Não
+P00416;Aditivo de radiador - Marca F - Aplic. V27;2,0;36,74;55,6;Arrefecimento;Marca F;Distribuidora 1;;Não
+P00417;Terminal de direção - Marca H - Aplic. V04;8,0;229,22;362,11;Direção;Marca H;Distribuidora 8;;Sim
+P00418;Amortecedor traseiro - Marca E - Aplic. V48;2,0;88,74;148,31;Suspensão;Marca E;Distribuidora 3;;Não
+P00419;Aditivo de radiador - Marca B - Aplic. V52;3,0;47,28;90,06;Arrefecimento;Marca B;Distribuidora 5;;Não
+P00420;Disco de freio - Marca D - Aplic. V21;3,0;51,1;78,62;Freios;Marca D;Distribuidora 6;;Não
+P00421;Lâmpada de farol - Marca E - Aplic. V13;3,0;13,36;23,03;Elétrica;Marca E;Distribuidora 3;;Não
+P00422;Calota - Marca G - Aplic. V27;1,0;73,46;140,81;Acessórios;Marca G;Distribuidora 2;;Não
+P00423;Filtro de óleo - Marca H - Aplic. V40;1,0;46,72;71,8;Filtros;Marca H;Distribuidora 5;;Não
+P00424;Tapete de borracha - Marca E - Aplic. V21;2,0;75,49;127,72;Acessórios;Marca E;Distribuidora 2;;Não
+P00425;Filtro de combustível - Marca F - Aplic. V30;6,0;14,31;25,47;Filtros;Marca F;Distribuidora 6;;Não
+P00426;Válvula de expansão - Marca F - Aplic. V53;2,0;709,47;1045,77;Ar-condicionado;Marca F;Distribuidora 4;;Não
+P00427;Cabo de embreagem - Marca F - Aplic. V38;1,0;184,98;343,8;Transmissão;Marca F;Distribuidora 1;;Não
+P00428;Bomba de óleo - Marca F - Aplic. V19;1,0;273,06;409,96;Motor;Marca F;Distribuidora 6;;Não
+P00429;Mangueira superior - Marca A - Aplic. V24;2,0;198,5;319,84;Arrefecimento;Marca A;Distribuidora 8;;Não
+P00430;Kit de embreagem - Marca D - Aplic. V44;2,0;190,17;303,38;Transmissão;Marca D;Distribuidora 2;;Não
+P00431;Palheta do limpador - Marca F - Aplic. V47;2,0;6,65;12,06;Acessórios;Marca F;Distribuidora 1;;Não
+P00432;Filtro de óleo - Marca G - Aplic. V54;0,0;14,17;25,33;Filtros;Marca G;Distribuidora 1;;Não
+P00433;Lâmpada de farol - Marca E - Aplic. V56;1,0;21,05;31,19;Elétrica;Marca E;Distribuidora 7;;Não
+P00434;Bobina de ignição - Marca H - Aplic. V20;2,0;52,9;78,61;Elétrica;Marca H;Distribuidora 2;;Não
+P00435;Válvula de expansão - Marca B - Aplic. V09;1,0;390,5;600,13;Ar-condicionado;Marca B;Distribuidora 3;;Não
+P00436;Filtro de ar - Marca B - Aplic. V42;6,0;23,3;35,43;Filtros;Marca B;Distribuidora 2;;Não
+P00437;Vela de ignição - Marca E - Aplic. V17;7,0;94,55;172,47;Motor;Marca E;Distribuidora 3;;Não
+P00438;Lâmpada de farol - Marca G - Aplic. V46;3,0;16,32;26,77;Elétrica;Marca G;Distribuidora 8;;Não
+P00439;Lâmpada de placa - Marca B - Aplic. V19;7,0;7,66;12,91;Elétrica;Marca B;Distribuidora 5;;Não
+P00440;Filtro de cabine - Marca E - Aplic. V35;2,0;46,5;79,3;Filtros;Marca E;Distribuidora 7;;Não
+P00441;Bateria 60Ah - Marca G - Aplic. V10;2,0;265,03;435,75;Elétrica;Marca G;Distribuidora 7;;Não
+P00442;Cilindro mestre - Marca H - Aplic. V55;2,0;66,57;118,12;Freios;Marca H;Distribuidora 1;;Não
+P00443;Lona de freio - Marca F - Aplic. V01;5,0;55,32;94,67;Freios;Marca F;Distribuidora 4;;Não
+P00444;Terminal axial - Marca B - Aplic. V41;1,0;55,79;88,89;Direção;Marca B;Distribuidora 1;;Não
+P00445;Cilindro mestre - Marca C - Aplic. V46;0,0;68,39;110,26;Freios;Marca C;Distribuidora 8;;Não
+P00446;Junta do cabeçote - Marca G - Aplic. V44;4,0;131,79;248,35;Motor;Marca G;Distribuidora 8;;Não
+P00447;Trava elétrica - Marca D - Aplic. V59;0,0;95,38;142,01;Acessórios;Marca D;Distribuidora 4;;Não
+P00448;Mangueira superior - Marca B - Aplic. V04;4,0;19,34;33,01;Arrefecimento;Marca B;Distribuidora 8;;Não
+P00449;Lâmpada de placa - Marca E - Aplic. V42;3,0;6,3;10,8;Elétrica;Marca E;Distribuidora 8;;Não
+P00450;Tapete de borracha - Marca B - Aplic. V49;4,0;15,51;26,08;Acessórios;Marca B;Distribuidora 5;;Não
+P00451;Semieixo - Marca H - Aplic. V45;25,0;33,87;62,2;Transmissão;Marca H;Distribuidora 1;;Não
+P00452;Lâmpada de farol - Marca E - Aplic. V12;4,0;11,76;18,88;Elétrica;Marca E;Distribuidora 5;;Não
+P00453;Terminal axial - Marca A - Aplic. V23;5,0;75,22;131,3;Direção;Marca A;Distribuidora 8;;Não
+P00454;Válvula termostática - Marca H - Aplic. V09;2,0;55,91;107,44;Arrefecimento;Marca H;Distribuidora 2;;Não
+P00455;Aditivo de radiador - Marca B - Aplic. V15;8,0;39,86;67,38;Arrefecimento;Marca B;Distribuidora 4;;Não
+P00456;Junta do cabeçote - Marca E - Aplic. V36;6,0;62,86;111,7;Motor;Marca E;Distribuidora 1;;Não
+P00457;Bobina de ignição - Marca H - Aplic. V39;2,0;8,02;13,45;Elétrica;Marca H;Distribuidora 6;;Não
+P00458;Junta do cabeçote - Marca F - Aplic. V43;2,0;45,46;75,42;Motor;Marca F;Distribuidora 3;;Não
+P00459;Tapete de borracha - Marca H - Aplic. V28;1,0;17,17;32,64;Acessórios;Marca H;Distribuidora 1;;Não
+P00460;Kit de distribuição - Marca H - Aplic. V58;1,0;44,06;71,6;Motor;Marca H;Distribuidora 1;;Não
+P00461;Junta homocinética - Marca G - Aplic. V45;3,0;137,47;235,02;Transmissão;Marca G;Distribuidora 2;;Não
+P00462;Trava elétrica - Marca C - Aplic. V37;1,0;9,26;15,6;Acessórios;Marca C;Distribuidora 8;;Não
+P00463;Cabo de embreagem - Marca B - Aplic. V53;0,0;305,21;469,15;Transmissão;Marca B;Distribuidora 8;;Não
+P00464;Pivô de suspensão - Marca C - Aplic. V28;3,0;55,54;90,54;Suspensão;Marca C;Distribuidora 5;;Não
+P00465;Caixa de direção - Marca H - Aplic. V58;2,0;475,75;827,77;Direção;Marca H;Distribuidora 8;;Não
+P00466;Junta do cabeçote - Marca E - Aplic. V36;4,0;22,47;42,29;Motor;Marca E;Distribuidora 5;;Não
+P00467;Bomba de direção - Marca A - Aplic. V59;5,0;54,44;95,58;Direção;Marca A;Distribuidora 3;;Não
+P00468;Trava elétrica - Marca F - Aplic. V10;61,0;11,22;17,96;Acessórios;Marca F;Distribuidora 1;;Não
+P00469;Bomba de óleo - Marca F - Aplic. V54;3,0;134,65;215,07;Motor;Marca F;Distribuidora 6;;Não
+P00470;Bomba d'água - Marca E - Aplic. V02;1,0;117,51;212,15;Arrefecimento;Marca E;Distribuidora 1;;Não
+P00471;Filtro de cabine - Marca F - Aplic. V21;3,0;13,78;24,54;Filtros;Marca F;Distribuidora 5;;Não
+P00472;Junta do cabeçote - Marca D - Aplic. V20;3,0;179,2;303,09;Motor;Marca D;Distribuidora 6;;Não
+P00473;Terminal axial - Marca C - Aplic. V06;4,0;322,94;546,99;Direção;Marca C;Distribuidora 6;;Não
+P00474;Alternador - Marca G - Aplic. V51;5,0;135,31;216,05;Elétrica;Marca G;Distribuidora 8;;Não
+P00475;Lâmpada de placa - Marca H - Aplic. V08;13,0;13,9;26,01;Elétrica;Marca H;Distribuidora 7;;Não
+P00476;Aditivo de radiador - Marca D - Aplic. V57;3,0;94,63;146,42;Arrefecimento;Marca D;Distribuidora 1;;Não
+P00477;Radiador - Marca F - Aplic. V33;2,0;214,98;361,26;Arrefecimento;Marca F;Distribuidora 3;;Não
+P00478;Alternador - Marca H - Aplic. V03;3,0;39,28;66,86;Elétrica;Marca H;Distribuidora 7;;Não
+P00479;Vela de ignição - Marca C - Aplic. V05;1,0;38,12;64,71;Motor;Marca C;Distribuidora 2;;Não
+P00480;Pastilha de freio dianteira - Marca B - Aplic. V17;1,0;122,3;228,35;Freios;Marca B;Distribuidora 8;;Não
+P00481;Amortecedor traseiro - Marca A - Aplic. V22;3,0;32,17;60,49;Suspensão;Marca A;Distribuidora 8;;Não
+P00482;Amortecedor traseiro - Marca F - Aplic. V30;2,0;64,69;115,64;Suspensão;Marca F;Distribuidora 2;;Não
+P00483;Vela de ignição - Marca F - Aplic. V29;8,0;19,26;31,53;Motor;Marca F;Distribuidora 7;;Não
+P00484;Compressor - Marca B - Aplic. V37;5,0;105,45;169,9;Ar-condicionado;Marca B;Distribuidora 6;;Não
+P00485;Amortecedor traseiro - Marca C - Aplic. V20;2,0;82,16;123,43;Suspensão;Marca C;Distribuidora 4;;Não
+P00486;Correia dentada - Marca E - Aplic. V21;1,0;187,91;308,08;Motor;Marca E;Distribuidora 6;;Não
+P00487;Bomba de óleo - Marca D - Aplic. V38;0,0;125,96;198,01;Motor;Marca D;Distribuidora 4;;Não
+P00488;Bobina de ignição - Marca B - Aplic. V06;5,0;26,88;46,08;Elétrica;Marca B;Distribuidora 7;;Não
+P00489;Válvula de expansão - Marca G - Aplic. V07;4,0;843,3;1572,44;Ar-condicionado;Marca G;Distribuidora 5;;Não
+P00490;Bomba de direção - Marca G - Aplic. V41;0,0;252,3;383,39;Direção;Marca G;Distribuidora 3;;Não
+P00491;Vela de ignição - Marca D - Aplic. V43;6,0;19,55;35,14;Motor;Marca D;Distribuidora 1;;Não
+P00492;Pastilha de freio traseira - Marca E - Aplic. V05;2,0;116,59;222,69;Freios;Marca E;Distribuidora 1;;Não
+P00493;Bomba de direção - Marca E - Aplic. V20;0,0;129,73;199,18;Direção;Marca E;Distribuidora 4;;Não
+P00494;Kit de embreagem - Marca H - Aplic. V19;1,0;298,1;572,7;Transmissão;Marca H;Distribuidora 7;;Não
+P00495;Radiador - Marca B - Aplic. V10;2,0;74,23;139,27;Arrefecimento;Marca B;Distribuidora 8;;Não
+P00496;Filtro de combustível - Marca E - Aplic. V39;2,0;19,18;34,07;Filtros;Marca E;Distribuidora 4;;Não
+P00497;Bomba de direção - Marca C - Aplic. V08;5,0;78,32;128,67;Direção;Marca C;Distribuidora 1;;Não
+P00498;Amortecedor dianteiro - Marca D - Aplic. V29;0,0;188,12;279,76;Suspensão;Marca D;Distribuidora 6;;Não
+P00499;Junta homocinética - Marca C - Aplic. V01;2,0;291,84;466,41;Transmissão;Marca C;Distribuidora 4;;Não
+P00500;Pastilha de freio dianteira - Marca G - Aplic. V01;6,0;60,86;98,0;Freios;Marca G;Distribuidora 4;;Não
+P00501;Correia dentada - Marca A - Aplic. V15;3,0;72,86;131,05;Motor;Marca A;Distribuidora 1;;Não
+P00502;Bomba de direção - Marca E - Aplic. V08;8,0;470,85;838,24;Direção;Marca E;Distribuidora 8;;Não
+P00503;Terminal axial - Marca B - Aplic. V50;3,0;152,84;263,2;Direção;Marca B;Distribuidora 4;;Não
+P00504;Kit de embreagem - Marca G - Aplic. V23;4,0;190,1;306,89;Transmissão;Marca G;Distribuidora 5;;Não
+P00505;Calota - Marca E - Aplic. V28;11,0;50,0;74,46;Acessórios;Marca E;Distribuidora 8;;Não
+P00506;Kit de embreagem - Marca H - Aplic. V03;1,0;261,42;441,38;Transmissão;Marca H;Distribuidora 1;;Não
+P00507;Vela de ignição - Marca G - Aplic. V17;3,0;35,88;67,85;Motor;Marca G;Distribuidora 5;;Não
+P00508;Bobina de ignição - Marca B - Aplic. V24;5,0;37,5;63,79;Elétrica;Marca B;Distribuidora 1;;Não
+P00509;Lona de freio - Marca B - Aplic. V47;3,0;141,74;244,0;Freios;Marca B;Distribuidora 3;;Não
+P00510;Bucha de bandeja - Marca G - Aplic. V56;0,0;111,48;200,93;Suspensão;Marca G;Distribuidora 1;;Não
+P00511;Radiador - Marca E - Aplic. V45;1,0;29,91;48,27;Arrefecimento;Marca E;Distribuidora 2;;Não
+P00512;Trava elétrica - Marca D - Aplic. V20;9,0;17,62;28,36;Acessórios;Marca D;Distribuidora 5;;Não
+P00513;Filtro de cabine - Marca A - Aplic. V07;3,0;18,48;27,97;Filtros;Marca A;Distribuidora 3;;Não
+P00514;Calota - Marca A - Aplic. V01;0,0;21,53;34,12;Acessórios;Marca A;Distribuidora 2;;Não
+P00515;Tapete de borracha - Marca G - Aplic. V44;10,0;10,85;17,18;Acessórios;Marca G;Distribuidora 7;;Não
+P00516;Bomba de óleo - Marca B - Aplic. V55;2,0;245,6;380,1;Motor;Marca B;Distribuidora 3;;Não
+P00517;Filtro de óleo - Marca A - Aplic. V44;149,0;24,88;37,5;Filtros;Marca A;Distribuidora 5;;Não
+P00518;Mangueira superior - Marca G - Aplic. V17;3,0;73,33;124,55;Arrefecimento;Marca G;Distribuidora 1;;Não
+P00519;Disco de freio - Marca D - Aplic. V06;3,0;185,49;317,18;Freios;Marca D;Distribuidora 6;;Não
+P00520;Bomba d'água - Marca C - Aplic. V54;1,0;148,3;227,9;Arrefecimento;Marca C;Distribuidora 1;;Não
+P00521;Vela de ignição - Marca F - Aplic. V03;2,0;58,54;100,29;Motor;Marca F;Distribuidora 6;;Não
+P00522;Aditivo de radiador - Marca B - Aplic. V26;0,0;46,69;87,45;Arrefecimento;Marca B;Distribuidora 1;;Não
+P00523;Pastilha de freio traseira - Marca D - Aplic. V06;4,0;136,26;227,05;Freios;Marca D;Distribuidora 2;;Não
+P00524;Kit de embreagem - Marca H - Aplic. V47;5,0;256,34;408,19;Transmissão;Marca H;Distribuidora 8;;Não
+P00525;Cabo de embreagem - Marca E - Aplic. V13;1,0;133,83;225,15;Transmissão;Marca E;Distribuidora 5;;Não
+P00526;Lâmpada de farol - Marca C - Aplic. V57;5,0;3,87;6,02;Elétrica;Marca C;Distribuidora 3;;Não
+P00527;Disco de freio - Marca E - Aplic. V06;11,0;32,69;62,08;Freios;Marca E;Distribuidora 7;;Não
+P00528;Válvula de expansão - Marca H - Aplic. V23;1,0;385,01;657,0;Ar-condicionado;Marca H;Distribuidora 5;;Não
+P00529;Bieleta - Marca G - Aplic. V58;2,0;36,73;60,89;Suspensão;Marca G;Distribuidora 1;;Não
+P00530;Bieleta - Marca C - Aplic. V59;7,0;75,26;142,81;Suspensão;Marca C;Distribuidora 5;;Não
+P00531;Lona de freio - Marca H - Aplic. V47;1,0;108,51;170,03;Freios;Marca H;Distribuidora 1;;Não
+P00532;Filtro de cabine - Marca E - Aplic. V21;2,0;36,9;54,38;Filtros;Marca E;Distribuidora 6;;Não
+P00533;Correia dentada - Marca A - Aplic. V57;3,0;262,27;474,99;Motor;Marca A;Distribuidora 4;;Não
+P00534;Calota - Marca C - Aplic. V07;1,0;21,46;35,53;Acessórios;Marca C;Distribuidora 8;;Não
+P00535;Válvula termostática - Marca A - Aplic. V21;4,0;128,34;197,34;Arrefecimento;Marca A;Distribuidora 4;;Não
+P00536;Pastilha de freio traseira - Marca A - Aplic. V31;2,0;128,01;245,55;Freios;Marca A;Distribuidora 8;;Não
+P00537;Fluido de freio - Marca D - Aplic. V05;3,0;15,39;28,8;Lubrificantes;Marca D;Distribuidora 5;;Não
+P00538;Pivô de suspensão - Marca H - Aplic. V17;3,0;55,71;89,2;Suspensão;Marca H;Distribuidora 6;;Não
+P00539;Tapete de borracha - Marca C - Aplic. V40;4,0;13,12;24,92;Acessórios;Marca C;Distribuidora 8;;Não
+P00540;Kit de embreagem - Marca C - Aplic. V14;2,0;70,28;121,36;Transmissão;Marca C;Distribuidora 5;;Não
+P00541;Compressor - Marca A - Aplic. V02;0,0;324,27;512,46;Ar-condicionado;Marca A;Distribuidora 6;;Não
+P00542;Aditivo de radiador - Marca D - Aplic. V12;3,0;39,18;64,74;Arrefecimento;Marca D;Distribuidora 1;;Não
+P00543;Bateria 60Ah - Marca F - Aplic. V29;0,0;41,82;75,71;Elétrica;Marca F;Distribuidora 8;;Não
+P00544;Trava elétrica - Marca G - Aplic. V25;3,0;54,92;82,23;Acessórios;Marca G;Distribuidora 8;;Não
+P00545;Palheta do limpador - Marca B - Aplic. V52;2,0;11,1;16,5;Acessórios;Marca B;Distribuidora 6;;Não
+P00546;Bucha de bandeja - Marca E - Aplic. V50;3,0;130,03;211,28;Suspensão;Marca E;Distribuidora 1;;Não
+P00547;Cilindro mestre - Marca B - Aplic. V46;3,0;65,13;96,38;Freios;Marca B;Distribuidora 4;;Não
+P00548;Correia dentada - Marca F - Aplic. V46;3,0;127,33;223,91;Motor;Marca F;Distribuidora 2;;Não
+P00549;Kit de embreagem - Marca H - Aplic. V18;1,0;43,3;73,6;Transmissão;Marca H;Distribuidora 8;;Não
+P00550;Óleo 5W30 - Marca D - Aplic. V40;3,0;27,08;45,49;Lubrificantes;Marca D;Distribuidora 4;;Não
+P00551;Kit de distribuição - Marca D - Aplic. V54;2,0;114,77;209,95;Motor;Marca D;Distribuidora 3;;Não
+P00552;Válvula termostática - Marca D - Aplic. V43;2,0;21,35;35,64;Arrefecimento;Marca D;Distribuidora 4;;Não
+P00553;Óleo 5W30 - Marca G - Aplic. V09;7,0;18,3;28,38;Lubrificantes;Marca G;Distribuidora 4;;Não
+P00554;Óleo 5W30 - Marca C - Aplic. V04;3,0;34,83;66,12;Lubrificantes;Marca C;Distribuidora 6;;Não
+P00555;Óleo 10W40 - Marca D - Aplic. V34;5,0;38,26;60,96;Lubrificantes;Marca D;Distribuidora 5;;Não
+P00556;Pivô de suspensão - Marca H - Aplic. V31;2,0;169,02;257,89;Suspensão;Marca H;Distribuidora 5;;Não
+P00557;Condensador - Marca D - Aplic. V18;2,0;57,15;92,9;Ar-condicionado;Marca D;Distribuidora 3;;Não
+P00558;Filtro de cabine - Marca H - Aplic. V18;1,0;32,47;47,82;Filtros;Marca H;Distribuidora 3;;Não
+P00559;Cilindro mestre - Marca D - Aplic. V06;4,0;40,46;70,35;Freios;Marca D;Distribuidora 5;;Não
+P00560;Fluido de freio - Marca A - Aplic. V27;0,0;38,7;57,28;Lubrificantes;Marca A;Distribuidora 6;;Não
+P00561;Junta homocinética - Marca B - Aplic. V08;2,0;279,8;499,2;Transmissão;Marca B;Distribuidora 7;;Não
+P00562;Filtro de cabine - Marca D - Aplic. V36;9,0;26,66;49,63;Filtros;Marca D;Distribuidora 3;;Não
+P00563;Semieixo - Marca G - Aplic. V48;1,0;48,36;81,96;Transmissão;Marca G;Distribuidora 4;;Não
+P00564;Óleo 10W40 - Marca H - Aplic. V39;4,0;32,39;47,89;Lubrificantes;Marca H;Distribuidora 4;;Não
+P00565;Pastilha de freio traseira - Marca C - Aplic. V05;3,0;119,98;187,13;Freios;Marca C;Distribuidora 2;;Não
+P00566;Tapete de borracha - Marca G - Aplic. V49;2,0;59,18;106,53;Acessórios;Marca G;Distribuidora 4;;Não
+P00567;Pastilha de freio traseira - Marca F - Aplic. V46;2,0;140,4;268,33;Freios;Marca F;Distribuidora 3;;Não
+P00568;Motor de partida - Marca B - Aplic. V13;2,0;311,62;589,49;Elétrica;Marca B;Distribuidora 1;;Não
+P00569;Junta do cabeçote - Marca A - Aplic. V45;3,0;224,28;355,63;Motor;Marca A;Distribuidora 4;;Não
+P00570;Correia dentada - Marca F - Aplic. V09;0,0;59,34;99,93;Motor;Marca F;Distribuidora 6;;Não
+P00571;Trava elétrica - Marca E - Aplic. V20;6,0;19,07;31,01;Acessórios;Marca E;Distribuidora 1;;Não
+P00572;Fluido de freio - Marca C - Aplic. V19;11,0;19,9;34,43;Lubrificantes;Marca C;Distribuidora 8;;Não
+P00573;Condensador - Marca A - Aplic. V03;3,0;325,69;615,42;Ar-condicionado;Marca A;Distribuidora 5;;Não
+P00574;Bomba de direção - Marca C - Aplic. V52;6,0;226,0;333,44;Direção;Marca C;Distribuidora 3;;Não
+P00575;Válvula termostática - Marca G - Aplic. V04;2,0;58,34;111,0;Arrefecimento;Marca G;Distribuidora 8;;Não
+P00576;Filtro de óleo - Marca B - Aplic. V33;3,0;42,94;78,47;Filtros;Marca B;Distribuidora 5;;Não
+P00577;Aditivo de radiador - Marca E - Aplic. V17;2,0;108,53;205,8;Arrefecimento;Marca E;Distribuidora 5;;Não
+P00578;Motor de partida - Marca A - Aplic. V27;8,0;35,02;65,64;Elétrica;Marca A;Distribuidora 1;;Não
+P00579;Calota - Marca F - Aplic. V28;4,0;27,96;42,35;Acessórios;Marca F;Distribuidora 1;;Não
+P00580;Pastilha de freio dianteira - Marca C - Aplic. V57;9,0;157,6;254,46;Freios;Marca C;Distribuidora 5;;Não
+P00581;Válvula de expansão - Marca D - Aplic. V15;0,0;392,12;698,73;Ar-condicionado;Marca D;Distribuidora 2;;Não
+P00582;Bomba de direção - Marca G - Aplic. V59;0,0;75,28;117,78;Direção;Marca G;Distribuidora 4;;Não
+P00583;Fluido de freio - Marca C - Aplic. V53;2,0;21,16;38,27;Lubrificantes;Marca C;Distribuidora 8;;Não
+P00584;Bieleta - Marca B - Aplic. V56;1,0;233,27;407,17;Suspensão;Marca B;Distribuidora 3;;Não
+P00585;Filtro de óleo - Marca H - Aplic. V04;2,0;19,66;30,18;Filtros;Marca H;Distribuidora 8;;Não
+P00586;Bomba de direção - Marca G - Aplic. V01;2,0;79,77;124,57;Direção;Marca G;Distribuidora 2;;Não
+P00587;Filtro secador - Marca G - Aplic. V25;0,0;99,78;178,51;Ar-condicionado;Marca G;Distribuidora 2;;Não
+P00588;Filtro secador - Marca B - Aplic. V44;1,0;201,78;325,18;Ar-condicionado;Marca B;Distribuidora 5;;Não
+P00589;Bateria 60Ah - Marca A - Aplic. V14;4,0;15,08;26,77;Elétrica;Marca A;Distribuidora 1;;Não
+P00590;Aditivo de radiador - Marca B - Aplic. V30;3,0;195,91;361,3;Arrefecimento;Marca B;Distribuidora 3;;Não
+P00591;Radiador - Marca F - Aplic. V18;3,0;249,06;399,33;Arrefecimento;Marca F;Distribuidora 7;;Não
+P00592;Bobina de ignição - Marca D - Aplic. V20;2,0;41,93;64,61;Elétrica;Marca D;Distribuidora 3;;Não
+P00593;Condensador - Marca G - Aplic. V44;2,0;249,97;400,36;Ar-condicionado;Marca G;Distribuidora 7;;Não
+P00594;Alternador - Marca F - Aplic. V22;2,0;20,51;36,85;Elétrica;Marca F;Distribuidora 2;;Não
+P00595;Bucha de bandeja - Marca H - Aplic. V30;2,0;220,13;337,8;Suspensão;Marca H;Distribuidora 8;;Não
+P00596;Junta homocinética - Marca G - Aplic. V19;3,0;86,46;158,16;Transmissão;Marca G;Distribuidora 7;;Não
+P00597;Filtro de óleo - Marca F - Aplic. V25;3,0;12,74;19,28;Filtros;Marca F;Distribuidora 8;;Não
+P00598;Bomba d'água - Marca B - Aplic. V29;2,0;120,41;228,61;Arrefecimento;Marca B;Distribuidora 7;;Não
+P00599;Mangueira superior - Marca E - Aplic. V23;1,0;58,38;88,21;Arrefecimento;Marca E;Distribuidora 5;;Não
+P00600;Vela de ignição - Marca F - Aplic. V21;4,0;32,86;53,87;Motor;Marca F;Distribuidora 5;;Não
+P00601;Terminal de direção - Marca A - Aplic. V50;6,0;53,77;98,03;Direção;Marca A;Distribuidora 3;;Não
+P00602;Tapete de borracha - Marca B - Aplic. V44;3,0;44,1;74,33;Acessórios;Marca B;Distribuidora 8;;Não
+P00603;Bieleta - Marca F - Aplic. V54;1,0;194,18;310,63;Suspensão;Marca F;Distribuidora 6;;Não
+P00604;Filtro de combustível - Marca A - Aplic. V40;16,0;40,07;73,0;Filtros;Marca A;Distribuidora 2;;Não
+P00605;Óleo 5W30 - Marca E - Aplic. V44;10,0;28,05;49,48;Lubrificantes;Marca E;Distribuidora 7;;Não
+P00606;Lona de freio - Marca H - Aplic. V26;3,0;92,03;154,32;Freios;Marca H;Distribuidora 7;;Não
+P00607;Amortecedor traseiro - Marca A - Aplic. V58;2,0;36,23;61,59;Suspensão;Marca A;Distribuidora 6;;Não
+P00608;Junta do cabeçote - Marca D - Aplic. V27;2,0;44,13;74,07;Motor;Marca D;Distribuidora 2;;Não
+P00609;Condensador - Marca C - Aplic. V13;0,0;924,48;1369,95;Ar-condicionado;Marca C;Distribuidora 2;;Não
+P00610;Pivô de suspensão - Marca G - Aplic. V18;5,0;84,21;137,39;Suspensão;Marca G;Distribuidora 7;;Não
+P00611;Caixa de direção - Marca D - Aplic. V33;3,0;307,5;556,82;Direção;Marca D;Distribuidora 7;;Não
+P00612;Aditivo de radiador - Marca H - Aplic. V59;0,0;18,26;30,56;Arrefecimento;Marca H;Distribuidora 1;;Não
+P00613;Bomba de direção - Marca C - Aplic. V05;1,0;122,57;206,02;Direção;Marca C;Distribuidora 4;;Não
+P00614;Bomba de óleo - Marca H - Aplic. V14;0,0;216,56;382,6;Motor;Marca H;Distribuidora 3;;Não
+P00615;Filtro de combustível - Marca F - Aplic. V01;6,0;15,73;24,77;Filtros;Marca F;Distribuidora 4;;Não
+P00616;Tapete de borracha - Marca A - Aplic. V59;2,0;54,26;93,23;Acessórios;Marca A;Distribuidora 6;;Não
+P00617;Pastilha de freio traseira - Marca B - Aplic. V17;7,0;84,55;129,81;Freios;Marca B;Distribuidora 3;;Não
+P00618;Óleo de câmbio - Marca E - Aplic. V23;5,0;22,05;35,72;Lubrificantes;Marca E;Distribuidora 7;;Não
+P00619;Palheta do limpador - Marca B - Aplic. V17;2,0;10,96;19,18;Acessórios;Marca B;Distribuidora 8;;Não
+P00620;Aditivo de radiador - Marca D - Aplic. V50;0,0;263,28;403,59;Arrefecimento;Marca D;Distribuidora 4;;Não
+P00621;Pastilha de freio traseira - Marca A - Aplic. V05;3,0;64,45;97,44;Freios;Marca A;Distribuidora 2;;Não
+P00622;Disco de freio - Marca E - Aplic. V11;3,0;40,58;69,09;Freios;Marca E;Distribuidora 1;;Não
+P00623;Válvula de expansão - Marca A - Aplic. V53;1,0;225,2;395,33;Ar-condicionado;Marca A;Distribuidora 6;;Não
+P00624;Pastilha de freio traseira - Marca B - Aplic. V30;7,0;59,9;91,46;Freios;Marca B;Distribuidora 2;;Não
+P00625;Mangueira superior - Marca A - Aplic. V19;2,0;134,89;211,91;Arrefecimento;Marca A;Distribuidora 3;;Não
+P00626;Óleo 15W40 - Marca G - Aplic. V29;2,0;19,64;29,25;Lubrificantes;Marca G;Distribuidora 7;;Não
+P00627;Trava elétrica - Marca E - Aplic. V12;0,0;37,83;69,04;Acessórios;Marca E;Distribuidora 3;;Não
+P00628;Óleo 5W30 - Marca F - Aplic. V19;5,0;34,94;64,92;Lubrificantes;Marca F;Distribuidora 2;;Não
+P00629;Kit de embreagem - Marca C - Aplic. V36;9,0;168,98;250,62;Transmissão;Marca C;Distribuidora 3;;Não
+P00630;Filtro de óleo - Marca G - Aplic. V36;7,0;50,4;78,64;Filtros;Marca G;Distribuidora 5;;Não
+P00631;Lâmpada de farol - Marca H - Aplic. V52;6,0;14,12;21,82;Elétrica;Marca H;Distribuidora 2;;Não
+P00632;Terminal de direção - Marca B - Aplic. V38;5,0;290,41;465,22;Direção;Marca B;Distribuidora 3;;Não
+P00633;Filtro de óleo - Marca F - Aplic. V12;5,0;45,86;77,72;Filtros;Marca F;Distribuidora 7;;Não
+P00634;Amortecedor dianteiro - Marca F - Aplic. V09;2,0;56,42;88,96;Suspensão;Marca F;Distribuidora 1;;Não
+P00635;Palheta do limpador - Marca H - Aplic. V13;1,0;12,75;20,02;Acessórios;Marca H;Distribuidora 6;;Não
+P00636;Lâmpada de farol - Marca E - Aplic. V05;1,0;20,19;30,37;Elétrica;Marca E;Distribuidora 3;;Não
+P00637;Bucha de bandeja - Marca G - Aplic. V04;2,0;225,45;332,57;Suspensão;Marca G;Distribuidora 7;;Não
+P00638;Lâmpada de placa - Marca H - Aplic. V03;2,0;10,59;15,7;Elétrica;Marca H;Distribuidora 6;;Não
+P00639;Junta homocinética - Marca F - Aplic. V27;3,0;34,78;58,53;Transmissão;Marca F;Distribuidora 1;;Não
+P00640;Terminal de direção - Marca G - Aplic. V60;1,0;407,0;675,25;Direção;Marca G;Distribuidora 4;;Não
+P00641;Bucha de bandeja - Marca E - Aplic. V29;4,0;44,44;73,6;Suspensão;Marca E;Distribuidora 1;;Não
+P00642;Trava elétrica - Marca E - Aplic. V60;1,0;76,05;115,85;Acessórios;Marca E;Distribuidora 2;;Não
+P00643;Bobina de ignição - Marca C - Aplic. V42;1,0;61,91;113,97;Elétrica;Marca C;Distribuidora 6;;Não
+P00644;Calota - Marca H - Aplic. V38;1,0;75,35;144,81;Acessórios;Marca H;Distribuidora 8;;Não
+P00645;Vela de ignição - Marca F - Aplic. V41;6,0;106,49;192,83;Motor;Marca F;Distribuidora 8;;Sim
+P00646;Válvula termostática - Marca A - Aplic. V16;0,0;135,56;255,5;Arrefecimento;Marca A;Distribuidora 3;;Não
+P00647;Aditivo de radiador - Marca A - Aplic. V34;6,0;104,35;163,13;Arrefecimento;Marca A;Distribuidora 5;;Não
+P00648;Vela de ignição - Marca G - Aplic. V30;4,0;19,97;30,23;Motor;Marca G;Distribuidora 8;;Não
+P00649;Filtro de óleo - Marca H - Aplic. V04;1,0;34,71;62,02;Filtros;Marca H;Distribuidora 4;;Não
+P00650;Filtro secador - Marca H - Aplic. V60;3,0;204,82;324,21;Ar-condicionado;Marca H;Distribuidora 4;;Não
+P00651;Mangueira superior - Marca F - Aplic. V23;0,0;111,93;186,12;Arrefecimento;Marca F;Distribuidora 5;;Não
+P00652;Disco de freio - Marca G - Aplic. V38;6,0;65,09;97,81;Freios;Marca G;Distribuidora 3;;Não
+P00653;Tapete de borracha - Marca G - Aplic. V27;5,0;43,27;82,07;Acessórios;Marca G;Distribuidora 2;;Não
+P00654;Bucha de bandeja - Marca H - Aplic. V43;2,0;285,34;459,69;Suspensão;Marca H;Distribuidora 3;;Não
+P00655;Semieixo - Marca A - Aplic. V19;2,0;82,46;142,73;Transmissão;Marca A;Distribuidora 6;;Não
+P00656;Bomba de direção - Marca G - Aplic. V47;5,0;453,87;720,31;Direção;Marca G;Distribuidora 2;;Não
+P00657;Vela de ignição - Marca D - Aplic. V51;4,0;29,05;48,65;Motor;Marca D;Distribuidora 3;;Não
+P00658;Bucha de bandeja - Marca H - Aplic. V08;6,0;165,75;313,32;Suspensão;Marca H;Distribuidora 1;;Não
+P00659;Amortecedor dianteiro - Marca H - Aplic. V03;2,0;115,06;199,61;Suspensão;Marca H;Distribuidora 5;;Não
+P00660;Filtro de óleo - Marca G - Aplic. V13;3,0;24,7;44,12;Filtros;Marca G;Distribuidora 5;;Não
+P00661;Cilindro mestre - Marca G - Aplic. V56;2,0;42,17;68,5;Freios;Marca G;Distribuidora 2;;Não
+P00662;Pastilha de freio dianteira - Marca G - Aplic. V60;1,0;43,49;79,96;Freios;Marca G;Distribuidora 3;;Não
+P00663;Óleo de câmbio - Marca E - Aplic. V39;3,0;37,11;61,28;Lubrificantes;Marca E;Distribuidora 2;;Não
+P00664;Filtro de cabine - Marca E - Aplic. V21;3,0;12,04;21,37;Filtros;Marca E;Distribuidora 5;;Não
+P00665;Cabo de embreagem - Marca B - Aplic. V51;0,0;344,21;598,68;Transmissão;Marca B;Distribuidora 1;;Não
+P00666;Disco de freio - Marca E - Aplic. V34;0,0;65,57;99,56;Freios;Marca E;Distribuidora 1;;Não
+P00667;Calota - Marca B - Aplic. V20;1,0;26,86;39,79;Acessórios;Marca B;Distribuidora 8;;Não
+P00668;Válvula de expansão - Marca H - Aplic. V02;7,0;206,72;315,23;Ar-condicionado;Marca H;Distribuidora 6;;Não
+P00669;Amortecedor traseiro - Marca B - Aplic. V43;2,0;304,38;486,82;Suspensão;Marca B;Distribuidora 1;;Não
+P00670;Alternador - Marca B - Aplic. V32;5,0;19,75;29,44;Elétrica;Marca B;Distribuidora 2;;Não
+P00671;Junta homocinética - Marca B - Aplic. V59;2,0;287,23;501,56;Transmissão;Marca B;Distribuidora 2;;Não
+P00672;Filtro de óleo - Marca B - Aplic. V58;2,0;58,06;88,27;Filtros;Marca B;Distribuidora 1;;Não
+P00673;Fluido de freio - Marca C - Aplic. V23;7,0;42,55;75,68;Lubrificantes;Marca C;Distribuidora 7;;Não
+P00674;Terminal de direção - Marca E - Aplic. V16;0,0;55,37;105,63;Direção;Marca E;Distribuidora 4;;Não
+P00675;Cabo de embreagem - Marca F - Aplic. V54;3,0;120,87;231,5;Transmissão;Marca F;Distribuidora 3;;Não
+P00676;Calota - Marca H - Aplic. V05;6,0;10,57;20,16;Acessórios;Marca H;Distribuidora 3;;Não
+P00677;Filtro de ar - Marca D - Aplic. V43;3,0;19,65;34,36;Filtros;Marca D;Distribuidora 5;;Não
+P00678;Lâmpada de placa - Marca B - Aplic. V10;8,0;7,57;12,65;Elétrica;Marca B;Distribuidora 3;;Não
+P00679;Caixa de direção - Marca C - Aplic. V35;1,0;255,95;447,69;Direção;Marca C;Distribuidora 1;;Não
+P00680;Terminal axial - Marca D - Aplic. V36;0,0;78,02;135,31;Direção;Marca D;Distribuidora 7;;Não
+P00681;Filtro de óleo - Marca D - Aplic. V10;1,0;21,24;38,28;Filtros;Marca D;Distribuidora 7;;Não
+P00682;Cabo de embreagem - Marca G - Aplic. V34;3,0;299,32;547,12;Transmissão;Marca G;Distribuidora 3;;Não
+P00683;Kit de distribuição - Marca G - Aplic. V18;1,0;38,03;71,42;Motor;Marca G;Distribuidora 2;;Não
+P00684;Palheta do limpador - Marca E - Aplic. V51;2,0;18,48;31,32;Acessórios;Marca E;Distribuidora 5;;Não
+P00685;Filtro de combustível - Marca H - Aplic. V51;276,0;32,83;52,1;Filtros;Marca H;Distribuidora 8;;Não
+P00686;Disco de freio - Marca F - Aplic. V54;2,0;99,77;178,02;Freios;Marca F;Distribuidora 2;;Não
+P00687;Palheta do limpador - Marca A - Aplic. V05;1,0;18,98;34,83;Acessórios;Marca A;Distribuidora 5;;Não
+P00688;Junta homocinética - Marca A - Aplic. V22;7,0;89,35;162,07;Transmissão;Marca A;Distribuidora 4;;Não
+P00689;Junta do cabeçote - Marca A - Aplic. V26;1,0;95,72;180,57;Motor;Marca A;Distribuidora 7;;Não
+P00690;Condensador - Marca C - Aplic. V48;3,0;138,76;224,99;Ar-condicionado;Marca C;Distribuidora 5;;Não
+P00691;Pivô de suspensão - Marca D - Aplic. V53;2,0;221,33;389,29;Suspensão;Marca D;Distribuidora 4;;Não
+P00692;Filtro de ar - Marca G - Aplic. V39;2,0;38,18;69,78;Filtros;Marca G;Distribuidora 8;;Não
+P00693;Correia dentada - Marca B - Aplic. V13;4,0;66,99;108,18;Motor;Marca B;Distribuidora 8;;Não
+P00694;Óleo 15W40 - Marca E - Aplic. V27;1,0;20,08;36,56;Lubrificantes;Marca E;Distribuidora 8;;Não
+P00695;Filtro de óleo - Marca E - Aplic. V30;3,0;34,68;53,33;Filtros;Marca E;Distribuidora 7;;Não
+P00696;Lâmpada de placa - Marca D - Aplic. V03;5,0;19,43;34,37;Elétrica;Marca D;Distribuidora 5;;Não
+P00697;Compressor - Marca B - Aplic. V33;0,0;637,14;1042,49;Ar-condicionado;Marca B;Distribuidora 7;;Não
+P00698;Lâmpada de placa - Marca D - Aplic. V50;3,0;22,21;34,38;Elétrica;Marca D;Distribuidora 5;;Não
+P00699;Aditivo de radiador - Marca H - Aplic. V10;2,0;121,4;221,32;Arrefecimento;Marca H;Distribuidora 4;;Não
+P00700;Amortecedor dianteiro - Marca F - Aplic. V38;2,0;196,73;361,39;Suspensão;Marca F;Distribuidora 8;;Não
+P00701;Lâmpada de farol - Marca A - Aplic. V08;3,0;18,32;29,64;Elétrica;Marca A;Distribuidora 1;;Não
+P00702;Palheta do limpador - Marca C - Aplic. V60;1,0;9,81;15,2;Acessórios;Marca C;Distribuidora 1;;Não
+P00703;Bateria 60Ah - Marca C - Aplic. V45;3,0;39,55;69,02;Elétrica;Marca C;Distribuidora 2;;Não
+P00704;Palheta do limpador - Marca B - Aplic. V23;1,0;13,75;21,94;Acessórios;Marca B;Distribuidora 3;;Não
+P00705;Motor de partida - Marca H - Aplic. V03;8,0;89,65;133,1;Elétrica;Marca H;Distribuidora 1;;Não
+P00706;Cilindro mestre - Marca B - Aplic. V23;2,0;54,93;88,74;Freios;Marca B;Distribuidora 5;;Não
+P00707;Motor de partida - Marca C - Aplic. V59;3,0;44,76;75,46;Elétrica;Marca C;Distribuidora 6;;Não
+P00708;Kit de embreagem - Marca C - Aplic. V02;2,0;84,3;148,76;Transmissão;Marca C;Distribuidora 4;;Não
+P00709;Óleo 15W40 - Marca E - Aplic. V20;2,0;28,74;45,36;Lubrificantes;Marca E;Distribuidora 4;;Não
+P00710;Bateria 60Ah - Marca G - Aplic. V12;3,0;120,63;180,09;Elétrica;Marca G;Distribuidora 3;;Não
+P00711;Calota - Marca A - Aplic. V45;2,0;58,92;100,97;Acessórios;Marca A;Distribuidora 4;;Não
+P00712;Óleo 5W30 - Marca G - Aplic. V23;11,0;35,39;53,58;Lubrificantes;Marca G;Distribuidora 8;;Não
+P00713;Cabo de embreagem - Marca A - Aplic. V60;5,0;99,22;186,08;Transmissão;Marca A;Distribuidora 7;;Não
+P00714;Trava elétrica - Marca E - Aplic. V18;2,0;84,73;157,3;Acessórios;Marca E;Distribuidora 2;;Não
+P00715;Vela de ignição - Marca C - Aplic. V46;1,0;45,92;77,94;Motor;Marca C;Distribuidora 3;;Não
+P00716;Pastilha de freio dianteira - Marca G - Aplic. V01;1,0;66,73;124,16;Freios;Marca G;Distribuidora 5;;Não
+P00717;Kit de distribuição - Marca A - Aplic. V41;2,0;281,4;419,02;Motor;Marca A;Distribuidora 3;;Não
+P00718;Semieixo - Marca C - Aplic. V58;3,0;138,38;258,95;Transmissão;Marca C;Distribuidora 6;;Não
+P00719;Radiador - Marca A - Aplic. V39;5,0;53,09;93,58;Arrefecimento;Marca A;Distribuidora 2;;Não
+P00720;Lâmpada de farol - Marca B - Aplic. V20;2,0;10,4;18,13;Elétrica;Marca B;Distribuidora 3;;Não
+P00721;Óleo 15W40 - Marca D - Aplic. V24;5,0;37,59;55,31;Lubrificantes;Marca D;Distribuidora 1;;Não
+P00722;Calota - Marca D - Aplic. V22;4,0;70,57;133,35;Acessórios;Marca D;Distribuidora 1;;Não
+P00723;Filtro secador - Marca A - Aplic. V35;2,0;954,33;1456,05;Ar-condicionado;Marca A;Distribuidora 4;;Não
+P00724;Óleo 15W40 - Marca F - Aplic. V42;5,0;15,87;27,69;Lubrificantes;Marca F;Distribuidora 3;;Não
+P00725;Pastilha de freio traseira - Marca D - Aplic. V38;2,0;131,93;197,43;Freios;Marca D;Distribuidora 1;;Não
+P00726;Óleo de câmbio - Marca D - Aplic. V37;3,0;21,59;38,26;Lubrificantes;Marca D;Distribuidora 6;;Não
+P00727;Terminal de direção - Marca F - Aplic. V58;2,0;111,43;202,5;Direção;Marca F;Distribuidora 4;;Não
+P00728;Condensador - Marca B - Aplic. V45;0,0;731,52;1245,0;Ar-condicionado;Marca B;Distribuidora 5;;Não
+P00729;Filtro de ar - Marca G - Aplic. V03;2,0;53,1;78,13;Filtros;Marca G;Distribuidora 2;;Não
+P00730;Bieleta - Marca A - Aplic. V23;3,0;126,59;225,92;Suspensão;Marca A;Distribuidora 3;;Não
+P00731;Pastilha de freio dianteira - Marca D - Aplic. V45;0,0;93,37;147,22;Freios;Marca D;Distribuidora 4;;Não
+P00732;Semieixo - Marca H - Aplic. V32;2,0;51,13;82,8;Transmissão;Marca H;Distribuidora 2;;Não
+P00733;Compressor - Marca D - Aplic. V58;3,0;148,71;235,49;Ar-condicionado;Marca D;Distribuidora 5;;Não
+P00734;Filtro de cabine - Marca H - Aplic. V17;1,0;47,09;81,83;Filtros;Marca H;Distribuidora 7;;Não
+P00735;Óleo 10W40 - Marca H - Aplic. V24;2,0;38,39;57,09;Lubrificantes;Marca H;Distribuidora 2;;Não
+P00736;Junta homocinética - Marca B - Aplic. V30;3,0;190,99;287,08;Transmissão;Marca B;Distribuidora 6;;Não
+P00737;Cabo de embreagem - Marca F - Aplic. V20;2,0;313,06;595,18;Transmissão;Marca F;Distribuidora 1;;Não
+P00738;Palheta do limpador - Marca B - Aplic. V53;4,0;9,47;17,14;Acessórios;Marca B;Distribuidora 1;;Não
+P00739;Vela de ignição - Marca E - Aplic. V31;3,0;54,46;91,57;Motor;Marca E;Distribuidora 7;;Não
+P00740;Óleo de câmbio - Marca H - Aplic. V41;4,0;34,88;60,43;Lubrificantes;Marca H;Distribuidora 4;;Não
+P00741;Bucha de bandeja - Marca B - Aplic. V12;5,0;65,14;112,74;Suspensão;Marca B;Distribuidora 3;;Não
+P00742;Compressor - Marca B - Aplic. V23;2,0;251,12;381,08;Ar-condicionado;Marca B;Distribuidora 1;;Não
+P00743;Trava elétrica - Marca E - Aplic. V35;0,0;10,54;18,79;Acessórios;Marca E;Distribuidora 3;;Não
+P00744;Óleo 5W30 - Marca B - Aplic. V06;3,0;23,8;43,73;Lubrificantes;Marca B;Distribuidora 2;;Não
+P00745;Calota - Marca F - Aplic. V11;1,0;24,68;41,47;Acessórios;Marca F;Distribuidora 6;;Não
+P00746;Bieleta - Marca E - Aplic. V38;6,0;70,06;117,36;Suspensão;Marca E;Distribuidora 4;;Não
+P00747;Trava elétrica - Marca C - Aplic. V35;1,0;58,88;106,04;Acessórios;Marca C;Distribuidora 2;;Não
+P00748;Filtro de ar - Marca C - Aplic. V39;3,0;38,88;63,69;Filtros;Marca C;Distribuidora 7;;Não
+P00749;Terminal de direção - Marca C - Aplic. V59;7,0;205,13;367,05;Direção;Marca C;Distribuidora 7;;Não
+P00750;Óleo 15W40 - Marca F - Aplic. V55;1,0;31,01;57,09;Lubrificantes;Marca F;Distribuidora 4;;Não
+P00751;Cabo de embreagem - Marca E - Aplic. V07;4,0;55,56;91,51;Transmissão;Marca E;Distribuidora 3;;Não
+P00752;Mangueira superior - Marca H - Aplic. V25;9,0;25,33;41,78;Arrefecimento;Marca H;Distribuidora 1;;Não
+P00753;Junta homocinética - Marca H - Aplic. V03;2,0;32,26;61,51;Transmissão;Marca H;Distribuidora 6;;Não
+P00754;Fluido de freio - Marca E - Aplic. V30;4,0;16,59;28,72;Lubrificantes;Marca E;Distribuidora 6;;Não
+P00755;Óleo de câmbio - Marca F - Aplic. V56;3,0;18,54;33,76;Lubrificantes;Marca F;Distribuidora 1;;Não
+P00756;Amortecedor dianteiro - Marca C - Aplic. V19;0,0;51,99;85,64;Suspensão;Marca C;Distribuidora 2;;Não
+P00757;Filtro de combustível - Marca D - Aplic. V60;9,0;41,19;67,94;Filtros;Marca D;Distribuidora 4;;Não
+P00758;Disco de freio - Marca F - Aplic. V04;6,0;126,23;240,03;Freios;Marca F;Distribuidora 5;;Não
+P00759;Fluido de freio - Marca D - Aplic. V53;0,0;13,77;25,96;Lubrificantes;Marca D;Distribuidora 5;;Não
+P00760;Cabo de embreagem - Marca E - Aplic. V40;4,0;42,32;79,08;Transmissão;Marca E;Distribuidora 7;;Não
+P00761;Amortecedor traseiro - Marca F - Aplic. V57;2,0;168,65;274,3;Suspensão;Marca F;Distribuidora 3;;Não
+P00762;Lâmpada de placa - Marca C - Aplic. V52;2,0;7,56;12,05;Elétrica;Marca C;Distribuidora 1;;Não
+P00763;Amortecedor traseiro - Marca A - Aplic. V41;3,0;59,56;91,82;Suspensão;Marca A;Distribuidora 1;;Não
+P00764;Filtro de combustível - Marca E - Aplic. V34;3,0;24,8;38,19;Filtros;Marca E;Distribuidora 5;;Não
+P00765;Bieleta - Marca E - Aplic. V54;1,0;109,55;181,77;Suspensão;Marca E;Distribuidora 3;;Não
+P00766;Calota - Marca H - Aplic. V53;1,0;38,27;57,8;Acessórios;Marca H;Distribuidora 4;;Não
+P00767;Lona de freio - Marca A - Aplic. V28;5,0;34,17;50,95;Freios;Marca A;Distribuidora 7;;Não
+P00768;Vela de ignição - Marca A - Aplic. V49;2,0;19,64;32,07;Motor;Marca A;Distribuidora 1;;Não
+P00769;Trava elétrica - Marca B - Aplic. V45;3,0;29,6;56,65;Acessórios;Marca B;Distribuidora 6;;Não
+P00770;Kit de distribuição - Marca G - Aplic. V54;5,0;34,84;60,43;Motor;Marca G;Distribuidora 5;;Não
+P00771;Bomba de direção - Marca C - Aplic. V34;0,0;115,43;196,1;Direção;Marca C;Distribuidora 1;;Não
+P00772;Filtro secador - Marca C - Aplic. V20;4,0;153,54;267,69;Ar-condicionado;Marca C;Distribuidora 2;;Não
+P00773;Amortecedor dianteiro - Marca F - Aplic. V54;1,0;330,72;502,1;Suspensão;Marca F;Distribuidora 2;;Não
+P00774;Calota - Marca E - Aplic. V33;19,0;12,6;19,05;Acessórios;Marca E;Distribuidora 1;;Não
+P00775;Pastilha de freio dianteira - Marca B - Aplic. V48;76,0;35,09;55,43;Freios;Marca B;Distribuidora 6;;Não
+P00776;Óleo 10W40 - Marca H - Aplic. V45;2,0;25,54;44,74;Lubrificantes;Marca H;Distribuidora 3;;Não
+P00777;Junta do cabeçote - Marca B - Aplic. V41;0,0;93,15;174,59;Motor;Marca B;Distribuidora 8;;Não
+P00778;Motor de partida - Marca D - Aplic. V60;6,0;32,06;52,12;Elétrica;Marca D;Distribuidora 1;;Não
+P00779;Filtro secador - Marca H - Aplic. V48;1,0;138,97;209,27;Ar-condicionado;Marca H;Distribuidora 6;;Não
+P00780;Fluido de freio - Marca C - Aplic. V02;7,0;45,38;72,81;Lubrificantes;Marca C;Distribuidora 6;;Não
+P00781;Mangueira superior - Marca B - Aplic. V52;4,0;39,62;59,74;Arrefecimento;Marca B;Distribuidora 1;;Não
+P00782;Semieixo - Marca G - Aplic. V30;2,0;37,59;67,84;Transmissão;Marca G;Distribuidora 5;;Não
+P00783;Óleo 15W40 - Marca G - Aplic. V57;1,0;30,99;48,69;Lubrificantes;Marca G;Distribuidora 8;;Não
+P00784;Válvula de expansão - Marca A - Aplic. V47;1,0;186,81;280,54;Ar-condicionado;Marca A;Distribuidora 5;;Não
+P00785;Radiador - Marca C - Aplic. V08;1,0;26,18;46,78;Arrefecimento;Marca C;Distribuidora 3;;Não
+P00786;Óleo 10W40 - Marca B - Aplic. V26;2,0;22,44;37,3;Lubrificantes;Marca B;Distribuidora 2;;Não
+P00787;Terminal axial - Marca H - Aplic. V04;0,0;489,44;800,91;Direção;Marca H;Distribuidora 2;;Não
+P00788;Fluido de freio - Marca F - Aplic. V05;3,0;16,48;29,85;Lubrificantes;Marca F;Distribuidora 5;;Não
+P00789;Fluido de freio - Marca C - Aplic. V31;1,0;20,31;36,44;Lubrificantes;Marca C;Distribuidora 7;;Não
+P00790;Bieleta - Marca E - Aplic. V14;3,0;142,1;212,5;Suspensão;Marca E;Distribuidora 3;;Não
+P00791;Válvula de expansão - Marca C - Aplic. V58;2,0;145,55;243,38;Ar-condicionado;Marca C;Distribuidora 6;;Não
+P00792;Filtro de ar - Marca F - Aplic. V10;8,0;14,68;23,02;Filtros;Marca F;Distribuidora 2;;Não
+P00793;Condensador - Marca D - Aplic. V04;2,0;686,28;1228,92;Ar-condicionado;Marca D;Distribuidora 2;;Não
+P00794;Lâmpada de placa - Marca G - Aplic. V34;2,0;4,76;7,4;Elétrica;Marca G;Distribuidora 2;;Não
+P00795;Filtro de óleo - Marca C - Aplic. V05;2,0;27,2;44,03;Filtros;Marca C;Distribuidora 7;;Não
+P00796;Alternador - Marca G - Aplic. V52;0,0;467,69;708,41;Elétrica;Marca G;Distribuidora 3;;Não
+P00797;Kit de embreagem - Marca E - Aplic. V52;1,0;51,29;89,59;Transmissão;Marca E;Distribuidora 2;;Não
+P00798;Lâmpada de placa - Marca B - Aplic. V17;19,0;14,06;21,28;Elétrica;Marca B;Distribuidora 1;;Não
+P00799;Calota - Marca E - Aplic. V32;0,0;25,47;42,79;Acessórios;Marca E;Distribuidora 2;;Não
+P00800;Válvula termostática - Marca H - Aplic. V50;1,0;85,3;138,19;Arrefecimento;Marca H;Distribuidora 4;;Não

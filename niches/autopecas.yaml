@@ -1,0 +1,20 @@
+# Pacote de nicho: autopeças
+# Todos os limiares são padrões; cada loja pode sobrescrever na tela de configurações (v1).
+nome: autopecas
+rotulo: Autopeças
+
+janela_venda_dias: 90          # janela para calcular a venda média diária
+corte_abc: [0.80, 0.95]        # A até 80% do faturamento acumulado, B até 95%, C o resto
+encalhe_dias: 180              # sem venda há X dias = capital parado
+lead_time_dias: 7              # prazo padrão de entrega do fornecedor
+margem_seguranca_dias: 3       # folga sobre o lead time para marcar risco de ruptura
+cobertura_alvo_dias: 30        # quantos dias de estoque a sugestão de compra tenta cobrir
+min_historico_dias: 90         # abaixo disso, ABC e cobertura ganham aviso de "pouco histórico"
+min_historico_sazonal_dias: 365
+
+motivos_perdida:
+  sem_estoque: "Sem estoque"
+  sem_aplicacao: "Sem aplicação cadastrada"
+  preco: "Preço"
+  devolucao_incompatibilidade: "Devolução/troca por incompatibilidade"
+  outro: "Outro"
